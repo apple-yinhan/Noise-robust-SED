@@ -7,7 +7,11 @@ Paper Link:
 
 ## 1. Pre-trained LASS model
 Please follow instructions in DCASE 2024 Challenge Task 9 Baseline for pre-training LASS models: [https://github.com/Audio-AGI/dcase2024_task9_baseline](https://github.com/Audio-AGI/dcase2024_task9_baseline)
-                                                                                                                                                        **Download our pre-trained AudioSep-Dp model**, we release our pre-trained AudioSep-DP model at:                                                                                                                                
+                                                                                                                                                        
+                                                                                                                                                        
+                                                                                                                                                         
+ Or **Download our pre-trained AudioSep-Dp model**, we release our pre-trained AudioSep-DP model at:                                                                                             
+                                                                                                                                                        
 ## 2. Sound Event Detection
 
 ### 2.1 Prepare data 
