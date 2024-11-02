@@ -27,4 +27,6 @@ In our work, we used the pre-trained LASS model to extract sound tracks of diffe
 **Without curriculum learning**: run `python train_pretrained.py`
 
 **With curriculum learning**: run `python train_pretrained_cl.py`
+
+**PS** Please follow instructions in [DCASE 2024 Task 4](https://dcase.community/challenge2024/task-sound-event-detection-with-heterogeneous-training-dataset-and-potentially-missing-labels) to extract embeddings through pre-trained model **BEATs**.
                                                                                                   
