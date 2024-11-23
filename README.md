@@ -1,7 +1,7 @@
 # Leveraging LLM and Text-Queried Separation for Noise-Robust Sound Event Detection
 This is the official code for paper **"Leveraging LLM and Text-Queried Separation for Noise-Robust Sound Event Detection"**.
 
-Paper Link: 
+Paper Link: [https://arxiv.org/abs/2411.01174](https://arxiv.org/abs/2411.01174)
 
 - Please first `pip install -r requirements.txt`
 
