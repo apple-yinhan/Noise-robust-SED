@@ -10,7 +10,7 @@ Please follow instructions in DCASE 2024 Challenge Task 9 Baseline for pre-train
                                                                                                                                                         
                                                                                                                                                         
                                                                                                                                                          
- Or **Download our pre-trained AudioSep-Dp model**, we release our pre-trained AudioSep-DP model at:                                                                                             
+ Or **Download our pre-trained AudioSep-Dp model**, we release our pre-trained AudioSep-DP model at: [https://zenodo.org/records/14208090](https://zenodo.org/records/14208090)                                                                                          
                                                                                                                                                         
 ## 2. Sound Event Detection
 
