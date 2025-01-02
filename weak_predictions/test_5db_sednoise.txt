@@ -1,0 +1,1731 @@
+Y00pbt6aJV8Y_350.000_360.000.wav	vacuum cleaner
+Y00pK0GMmE9s_70.000_80.000.wav	vacuum cleaner
+Y02sD1KJeoGA_50.000_60.000.wav	frying
+Y0bjUq9XMMmQ_30.000_40.000.wav	frying
+Y0cH_NlhhMAs_30.000_40.000.wav	alarm bell ringing
+Y0eh_N-cmcuI_350.000_360.000.wav	running water
+Y0eh_N-cmcuI_350.000_360.000.wav	speech
+Y0hAK5f1tDok_30.000_40.000.wav	cat
+Y0hAK5f1tDok_30.000_40.000.wav	speech
+Y0j-mPw3WpVw_10.000_20.000.wav	blender
+Y0kAaPH2wrvM_140.000_150.000.wav	speech
+Y0kAaPH2wrvM_140.000_150.000.wav	vacuum cleaner
+Y0KarxIguv18_180.000_190.000.wav	electric shaver toothbrush
+Y0lNm9pXXHxA_0.000_9.000.wav	cat
+Y0plDocPM9Ig_80.000_90.000.wav	running water
+Y0q87keOtUNQ_21.000_31.000.wav	cat
+Y0q87keOtUNQ_21.000_31.000.wav	speech
+Y0R4uO4Vy9c0_110.000_120.000.wav	cat
+Y0R4uO4Vy9c0_110.000_120.000.wav	speech
+Y0sYcEVTfF2E_0.000_10.000.wav	running water
+Y0um2ui52eyo_60.000_70.000.wav	running water
+Y0um2ui52eyo_60.000_70.000.wav	speech
+Y0UN02RkbG_U_7.000_17.000.wav	cat
+Y0_WMZB4Xc5o_30.000_40.000.wav	dishes
+Y0_WMZB4Xc5o_30.000_40.000.wav	running water
+Y-0X1juZHG6I_30.000_40.000.wav	running water
+Y0xciMnHCZL0_30.000_40.000.wav	frying
+Y0XMeGiszPYE_30.000_40.000.wav	cat
+Y0zjb1cI6aEs_13.000_23.000.wav	cat
+Y0zjb1cI6aEs_13.000_23.000.wav	speech
+Y1-0EYLUEbRo_340.000_350.000.wav	none
+Y13YvwUoLde8_10.000_20.000.wav	running water
+Y18-ffRBe48A_20.000_30.000.wav	running water
+Y18hLbtiGqes_40.000_50.000.wav	electric shaver toothbrush
+Y19PS9dyGe64_100.000_110.000.wav	running water
+Y19PS9dyGe64_100.000_110.000.wav	speech
+Y19UacScA26s_70.000_80.000.wav	none
+Y1asrcrzsvuo_160.000_170.000.wav	blender
+Y1asrcrzsvuo_160.000_170.000.wav	speech
+Y1bPtEqPp1ZI_20.000_30.000.wav	running water
+Y1easzswv0OM_130.000_140.000.wav	blender
+Y1easzswv0OM_130.000_140.000.wav	speech
+Y1eaWEhXlpS0_110.000_120.000.wav	running water
+Y1eOhQvtQHm0_160.000_170.000.wav	blender
+Y1FADrYkCEjY_30.000_40.000.wav	none
+Y1HQyUAfYFHw_0.000_10.000.wav	vacuum cleaner
+Y1juKQIs5ePc_50.000_60.000.wav	frying
+Y1KFRlXZfnIA_13.000_23.000.wav	cat
+Y1MYIYf82ZnM_30.000_40.000.wav	running water
+Y1NbotQwFUTg_30.000_40.000.wav	dishes
+Y1NYJAJXYyNY_350.000_360.000.wav	frying
+Y1NYJAJXYyNY_350.000_360.000.wav	speech
+Y1pqXL2y7nZ4_30.000_40.000.wav	cat
+Y1pqXL2y7nZ4_30.000_40.000.wav	speech
+Y1QK5WA4dK4o_400.000_410.000.wav	dishes
+Y1rq1I--vGwo_220.000_230.000.wav	running water
+Y1tFkjBMoUkM_90.000_100.000.wav	none
+Y1U4D63urKlo_90.000_100.000.wav	dishes
+Y1U4D63urKlo_90.000_100.000.wav	frying
+Y1U4D63urKlo_90.000_100.000.wav	speech
+Y1-uo7YWqF3Q_30.000_40.000.wav	cat
+Y1-uo7YWqF3Q_30.000_40.000.wav	speech
+Y1vp4q7nBedI_420.000_430.000.wav	alarm bell ringing
+Y1vp4q7nBedI_420.000_430.000.wav	speech
+Y1VPLhdQgQyE_2.000_12.000.wav	cat
+Y1WdoejoSGj8_60.000_70.000.wav	dishes
+Y1WdoejoSGj8_60.000_70.000.wav	frying
+Y1WdoejoSGj8_60.000_70.000.wav	speech
+Y1Zh0FA8mO-k_14.000_24.000.wav	cat
+Y1Zh0FA8mO-k_14.000_24.000.wav	speech
+Y1ZiKrVqYzVo_30.000_40.000.wav	cat
+Y21u5DMRvEhs_30.000_40.000.wav	dishes
+Y27tTKJuekQc_0.000_10.000.wav	running water
+Y27tTKJuekQc_0.000_10.000.wav	speech
+Y2DF8mtDke8k_460.000_470.000.wav	dishes
+Y2DF8mtDke8k_460.000_470.000.wav	frying
+Y2DF8mtDke8k_460.000_470.000.wav	speech
+Y2IxkjMrJxng_50.000_60.000.wav	running water
+Y-2kt5gv42qI_150.000_160.000.wav	electric shaver toothbrush
+Y2o4Vqjzfhko_50.000_60.000.wav	vacuum cleaner
+Y2R7p_Ac26mU_30.000_40.000.wav	dishes
+Y2U6aYsjc1UM_130.000_140.000.wav	blender
+Y2wm2zzXz308_60.000_70.000.wav	vacuum cleaner
+Y2xYCc2ZQF4E_170.000_180.000.wav	alarm bell ringing
+Y2xYCc2ZQF4E_170.000_180.000.wav	speech
+Y2YRfPCbROkw_0.000_10.000.wav	running water
+Y2yTAfCLLiRs_30.000_40.000.wav	alarm bell ringing
+Y2zGw5RW79xI_30.000_40.000.wav	running water
+Y2zGw5RW79xI_30.000_40.000.wav	speech
+Y39PfIe5CrPU_30.000_40.000.wav	alarm bell ringing
+Y39PfIe5CrPU_30.000_40.000.wav	speech
+Y3c5KOAOX46I_30.000_40.000.wav	alarm bell ringing
+Y3c5KOAOX46I_30.000_40.000.wav	speech
+Y3dnn1v0osio_530.000_540.000.wav	alarm bell ringing
+Y3dnn1v0osio_530.000_540.000.wav	speech
+Y3eN7ujFJzXQ_170.000_180.000.wav	dishes
+Y3eN7ujFJzXQ_170.000_180.000.wav	speech
+Y3evdpIZimWE_90.000_100.000.wav	speech
+Y3evdpIZimWE_90.000_100.000.wav	vacuum cleaner
+Y3FrK3RhGFGc_10.000_20.000.wav	running water
+Y3jDkI9JjYuQ_0.000_10.000.wav	running water
+Y3oZLoVYIHFQ_50.000_60.000.wav	vacuum cleaner
+Y494nsqffhTE_40.000_50.000.wav	electric shaver toothbrush
+Y4dujzoc7MHE_170.000_180.000.wav	alarm bell ringing
+Y4DX3ZWoZbt8_0.000_10.000.wav	vacuum cleaner
+Y4e0riwTv0xY_170.000_180.000.wav	dishes
+Y4e0riwTv0xY_170.000_180.000.wav	frying
+Y4e0riwTv0xY_170.000_180.000.wav	speech
+Y4gyuJnj9iWw_110.000_120.000.wav	none
+Y4jkJ3MhsYh0_170.000_180.000.wav	running water
+Y4jkJ3MhsYh0_170.000_180.000.wav	speech
+Y4nv-GOe3h54_110.000_120.000.wav	dishes
+Y4nv-GOe3h54_110.000_120.000.wav	frying
+Y4nv-GOe3h54_110.000_120.000.wav	speech
+Y4o1WXDIYm9g_310.000_320.000.wav	vacuum cleaner
+Y4U2-ZMKWgD0_380.000_390.000.wav	running water
+Y4U2-ZMKWgD0_380.000_390.000.wav	speech
+Y4v9CMU2SXso_260.000_270.000.wav	blender
+Y4v9CMU2SXso_260.000_270.000.wav	speech
+Y4WLQloq6iLs_190.000_200.000.wav	none
+Y4Yo_DkHXXjI_170.000_180.000.wav	dishes
+Y4Yo_DkHXXjI_170.000_180.000.wav	frying
+Y4Z62K7wv6Po_280.000_290.000.wav	running water
+Y4Z62K7wv6Po_280.000_290.000.wav	speech
+Y50Ophs2Ih-4_120.000_130.000.wav	electric shaver toothbrush
+Y50Ophs2Ih-4_120.000_130.000.wav	speech
+Y530yiQ7x99E_570.000_580.000.wav	blender
+Y530yiQ7x99E_570.000_580.000.wav	speech
+Y53UtJp-9UYM_100.000_110.000.wav	vacuum cleaner
+Y56B_R7-40cA_60.000_70.000.wav	running water
+Y572D_4G9cos_150.000_160.000.wav	speech
+Y572D_4G9cos_150.000_160.000.wav	vacuum cleaner
+Y57wLY6lcZus_80.000_90.000.wav	alarm bell ringing
+Y57wLY6lcZus_80.000_90.000.wav	dishes
+Y5-AIETMDRaI_10.000_20.000.wav	running water
+Y5aSyIbD6jY4_70.000_80.000.wav	blender
+Y5aSyIbD6jY4_70.000_80.000.wav	speech
+Y5cRwwBaGtTA_110.000_120.000.wav	dishes
+Y5cRwwBaGtTA_110.000_120.000.wav	running water
+Y5dmvNaIHaBA_350.000_360.000.wav	dishes
+Y5dmvNaIHaBA_350.000_360.000.wav	speech
+Y5H6OZJ71DHo_0.000_10.000.wav	running water
+Y5iT-5fccnC8_70.000_80.000.wav	vacuum cleaner
+Y5J603SAj7QM_210.000_220.000.wav	dishes
+Y5J603SAj7QM_210.000_220.000.wav	frying
+Y5J603SAj7QM_210.000_220.000.wav	speech
+Y5MB5gjMb1oo_240.000_250.000.wav	running water
+Y5P78H_fNvbg_80.000_90.000.wav	blender
+Y5P78H_fNvbg_80.000_90.000.wav	running water
+Y5qx1HGIWJww_170.000_180.000.wav	dishes
+Y5qx1HGIWJww_170.000_180.000.wav	speech
+Y5UMWvLV5DGU_40.000_50.000.wav	alarm bell ringing
+Y5X8F5Sthk4Q_80.000_90.000.wav	running water
+Y5Xu5FJLNTHY_500.000_510.000.wav	speech
+Y5Xu5FJLNTHY_500.000_510.000.wav	vacuum cleaner
+Y5YpCQdZqbys_270.000_280.000.wav	blender
+Y5YpCQdZqbys_270.000_280.000.wav	speech
+Y64kSvAtmFAk_30.000_40.000.wav	vacuum cleaner
+Y6ExErkijGaA_20.000_30.000.wav	running water
+Y6ExErkijGaA_20.000_30.000.wav	speech
+Y6gbAtSodiJs_20.000_30.000.wav	alarm bell ringing
+Y6kKs7UKCUBA_70.000_80.000.wav	none
+Y6ocUrRBIuls_340.000_350.000.wav	speech
+Y6ocUrRBIuls_340.000_350.000.wav	vacuum cleaner
+Y6PwBeL3Abl8_60.000_70.000.wav	blender
+Y6PwBeL3Abl8_60.000_70.000.wav	speech
+Y-6-rh8kbZf0_40.000_50.000.wav	alarm bell ringing
+Y-6-rh8kbZf0_40.000_50.000.wav	speech
+Y6-VpJy2Jeec_40.000_50.000.wav	running water
+Y6VQuHBq0IXg_30.000_40.000.wav	alarm bell ringing
+Y6VQuHBq0IXg_30.000_40.000.wav	speech
+Y72YnuWh4r-E_90.000_100.000.wav	electric shaver toothbrush
+Y72YnuWh4r-E_90.000_100.000.wav	speech
+Y7agGfavyTX4_120.000_130.000.wav	blender
+Y7bebYVKl7t8_510.000_520.000.wav	alarm bell ringing
+Y7bebYVKl7t8_510.000_520.000.wav	speech
+Y7HSpbwWrii0_10.000_20.000.wav	alarm bell ringing
+Y7O_Q7A8LAhI_220.000_230.000.wav	vacuum cleaner
+Y7-Pb33nUWKI_40.000_50.000.wav	dishes
+Y7-Pb33nUWKI_40.000_50.000.wav	speech
+Y7pxNDwMWoIo_20.000_30.000.wav	running water
+Y7sH5r4U1Nc0_590.000_600.000.wav	blender
+Y7sH5r4U1Nc0_590.000_600.000.wav	speech
+Y7uadxE3ZLS8_0.000_10.000.wav	electric shaver toothbrush
+Y7wPIQMsalK8_70.000_80.000.wav	blender
+Y7xX1g_WVYmM_100.000_110.000.wav	vacuum cleaner
+Y7ZTBswMDOW0_250.000_260.000.wav	frying
+Y89TJDppJlKI_20.000_30.000.wav	running water
+Y8fDeRi8Lqyg_40.000_50.000.wav	running water
+Y8fDeRi8Lqyg_40.000_50.000.wav	speech
+Y8HbKrFYTWI4_120.000_130.000.wav	frying
+Y8HbKrFYTWI4_120.000_130.000.wav	speech
+Y-8ju6V8B5Oc_40.000_50.000.wav	speech
+Y8lhDSLRfZ8Q_350.000_360.000.wav	running water
+Y8lhDSLRfZ8Q_350.000_360.000.wav	speech
+Y8Y3du2Iw0v4_60.000_70.000.wav	electric shaver toothbrush
+Y8Y3du2Iw0v4_60.000_70.000.wav	speech
+Y97oxHi3qxs8_0.000_10.000.wav	running water
+Y97oxHi3qxs8_0.000_10.000.wav	speech
+Y99MfwDS1Vpc_30.000_40.000.wav	running water
+Y99MfwDS1Vpc_30.000_40.000.wav	speech
+Y9aNXDP2rv7o_220.000_230.000.wav	blender
+Y9aNXDP2rv7o_220.000_230.000.wav	speech
+Y9m96yRfGJ1I_150.000_160.000.wav	dishes
+Y9m96yRfGJ1I_150.000_160.000.wav	frying
+Y9m96yRfGJ1I_150.000_160.000.wav	speech
+Y9mdHUoBmtiE_0.000_10.000.wav	frying
+Y9mdHUoBmtiE_0.000_10.000.wav	speech
+Y9RgAP7X9d6w_10.000_20.000.wav	running water
+Y9RgAP7X9d6w_10.000_20.000.wav	speech
+Y9V-F5sW1vk8_20.000_30.000.wav	blender
+Y9wdz8eKr2Qc_20.000_30.000.wav	vacuum cleaner
+Y9xFa6pE7120_270.000_280.000.wav	dishes
+Y9xFa6pE7120_270.000_280.000.wav	frying
+Y9xFa6pE7120_270.000_280.000.wav	speech
+YAaFnWKLyP-o_160.000_170.000.wav	alarm bell ringing
+YAaFnWKLyP-o_160.000_170.000.wav	speech
+YAagLJkfrFMk_60.000_70.000.wav	running water
+YAVvPNcxOuRQ_30.000_40.000.wav	vacuum cleaner
+YAwjEqHYHp7I_110.000_120.000.wav	speech
+YAXpA_dWErVc_530.000_540.000.wav	dishes
+YAXpA_dWErVc_530.000_540.000.wav	frying
+YAyl4EbZXANQ_280.000_290.000.wav	running water
+YAyl4EbZXANQ_280.000_290.000.wav	speech
+YB4Q6N08yhp8_80.000_90.000.wav	speech
+YB4Q6N08yhp8_80.000_90.000.wav	vacuum cleaner
+YB5-S_Jl0qWg_10.000_20.000.wav	vacuum cleaner
+YBfsxrvRNJe0_100.000_110.000.wav	electric shaver toothbrush
+YBfsxrvRNJe0_100.000_110.000.wav	speech
+Y-BJNMHMZDcU_50.000_60.000.wav	dog
+YBMiWTybWmiQ_30.000_40.000.wav	blender
+YBMiWTybWmiQ_30.000_40.000.wav	speech
+YBO6t_yaF-vM_20.000_30.000.wav	running water
+Y-Bp9Q5aYLOc_70.000_80.000.wav	vacuum cleaner
+YBQ7Nj7WJL8U_70.000_80.000.wav	dishes
+YBQ7Nj7WJL8U_70.000_80.000.wav	speech
+YBuCXr4C5RRc_270.000_280.000.wav	blender
+YBuCXr4C5RRc_270.000_280.000.wav	speech
+YCDzXaXXJbEM_10.000_20.000.wav	vacuum cleaner
+YCFlJ3s8bThc_10.000_20.000.wav	running water
+YCFQQgBvv2xQ_100.000_110.000.wav	vacuum cleaner
+YChKx4LnaiUg_30.000_40.000.wav	electric shaver toothbrush
+YChKx4LnaiUg_30.000_40.000.wav	speech
+YCIHeWEyXlBo_380.000_390.000.wav	electric shaver toothbrush
+YCIHeWEyXlBo_380.000_390.000.wav	speech
+YCNhIye_TpYo_0.000_10.000.wav	electric shaver toothbrush
+YCNhIye_TpYo_0.000_10.000.wav	speech
+YCQYU1BKgEvk_30.000_40.000.wav	dishes
+YCQYU1BKgEvk_30.000_40.000.wav	frying
+YCUpj8e4vfr0_10.000_20.000.wav	vacuum cleaner
+YCYQJHHZsfA0_20.000_30.000.wav	blender
+YCYQJHHZsfA0_20.000_30.000.wav	speech
+Ycz7OeuatTF4_40.000_50.000.wav	running water
+Yd86YYbaFeRc_30.000_40.000.wav	alarm bell ringing
+Yd86YYbaFeRc_30.000_40.000.wav	speech
+YDcuiRMRt1gs_30.000_40.000.wav	dishes
+YDcuiRMRt1gs_30.000_40.000.wav	frying
+YDGbDRGO2qEw_90.000_100.000.wav	alarm bell ringing
+YDGNPn0onZlY_30.000_40.000.wav	none
+YD-lPu_FeOM0_180.000_190.000.wav	blender
+YDOjo6_9WxCo_30.000_40.000.wav	speech
+YDOjo6_9WxCo_30.000_40.000.wav	vacuum cleaner
+YE31PuovQDic_380.000_390.000.wav	dishes
+YE31PuovQDic_380.000_390.000.wav	frying
+YE3SHLh_qAeg_90.000_100.000.wav	vacuum cleaner
+YF91ueYOdGfI_400.000_410.000.wav	alarm bell ringing
+YF91ueYOdGfI_400.000_410.000.wav	speech
+YFb-PKnTdkF0_40.000_50.000.wav	running water
+YFb-PKnTdkF0_40.000_50.000.wav	speech
+YG3yk9UXVB9g_20.000_30.000.wav	speech
+YG3yk9UXVB9g_20.000_30.000.wav	vacuum cleaner
+YG8mATrGBVYs_40.000_50.000.wav	running water
+Ygcpwj8O1cYc_200.000_210.000.wav	dishes
+Ygcpwj8O1cYc_200.000_210.000.wav	running water
+Y-glXSSR3QZM_170.000_180.000.wav	alarm bell ringing
+Y-glXSSR3QZM_170.000_180.000.wav	speech
+YGMBup-GU8oM_40.000_50.000.wav	vacuum cleaner
+YGRO7A7F-IA0_50.000_60.000.wav	running water
+YGvWm5TyWgPc_10.000_20.000.wav	alarm bell ringing
+YgY1k1H3JwLw_30.000_40.000.wav	electric shaver toothbrush
+YgY1k1H3JwLw_30.000_40.000.wav	speech
+YGZ4zl72qSsY_50.000_60.000.wav	dog
+YGZ4zl72qSsY_50.000_60.000.wav	running water
+YH69K1QTcklQ_300.000_310.000.wav	electric shaver toothbrush
+YH69K1QTcklQ_300.000_310.000.wav	speech
+Y_HDolAn2_us_60.000_70.000.wav	alarm bell ringing
+Y_HDolAn2_us_60.000_70.000.wav	speech
+YHGJA33enbP8_40.000_50.000.wav	running water
+Yhj_dL9NpsMk_10.000_20.000.wav	electric shaver toothbrush
+Yhj_dL9NpsMk_10.000_20.000.wav	speech
+YhlG2-K5ZIkY_80.000_90.000.wav	alarm bell ringing
+Y-HmpSQ-yFFc_0.000_10.000.wav	running water
+Y-HmpSQ-yFFc_0.000_10.000.wav	speech
+YhPwyvO-Bzt8_570.000_580.000.wav	electric shaver toothbrush
+YhrsczWY36p8_190.000_200.000.wav	electric shaver toothbrush
+YhrsczWY36p8_190.000_200.000.wav	speech
+YHsMCQVHsXSY_470.000_480.000.wav	running water
+YHsMCQVHsXSY_470.000_480.000.wav	speech
+Yi7VpXVrrTPs_30.000_40.000.wav	alarm bell ringing
+Yi7VpXVrrTPs_30.000_40.000.wav	speech
+YIbEqfqTarSQ_210.000_220.000.wav	vacuum cleaner
+YIDrS33tGhJo_140.000_150.000.wav	alarm bell ringing
+YiEPr3WdvTM0_150.000_160.000.wav	alarm bell ringing
+YiEPr3WdvTM0_150.000_160.000.wav	speech
+YIjgCZlauTl8_40.000_50.000.wav	speech
+YIjgCZlauTl8_40.000_50.000.wav	vacuum cleaner
+YImHzoh9GdKM_60.000_70.000.wav	electric shaver toothbrush
+YImHzoh9GdKM_60.000_70.000.wav	speech
+YI_qBcFL7rys_0.000_3.000.wav	alarm bell ringing
+YIuKYDovQ79I_350.000_360.000.wav	dishes
+YIuKYDovQ79I_350.000_360.000.wav	speech
+YIXRXuv9v7cM_80.000_90.000.wav	alarm bell ringing
+YIXRXuv9v7cM_80.000_90.000.wav	speech
+YJg1jycR1zGQ_30.000_40.000.wav	dishes
+YJg1jycR1zGQ_30.000_40.000.wav	speech
+YJODPEwUPyUE_40.000_50.000.wav	alarm bell ringing
+YJODPEwUPyUE_40.000_50.000.wav	electric shaver toothbrush
+YjSlHfmxMjpA_150.000_160.000.wav	alarm bell ringing
+YjSlHfmxMjpA_150.000_160.000.wav	speech
+YK0OM1kMgtek_30.000_40.000.wav	dishes
+YKa1vVow0j6w_40.000_50.000.wav	running water
+YKGET1dnWDnQ_30.000_40.000.wav	alarm bell ringing
+YK_J3sr7Q8nM_40.000_50.000.wav	alarm bell ringing
+YK_J3sr7Q8nM_40.000_50.000.wav	speech
+YKn1DpReuHy0_120.000_130.000.wav	electric shaver toothbrush
+YKn1DpReuHy0_120.000_130.000.wav	speech
+YKv0-h1ikdL4_0.000_10.000.wav	speech
+YKv0-h1ikdL4_0.000_10.000.wav	vacuum cleaner
+YM1-0hqpMYDo_0.000_10.000.wav	alarm bell ringing
+YMGVGO9mnvMQ_7.000_17.000.wav	alarm bell ringing
+YNLfNL24ZRwE_130.000_140.000.wav	running water
+YNQklJ9BEiLA_110.000_120.000.wav	electric shaver toothbrush
+YnsxAMfzY_Wo_160.000_170.000.wav	alarm bell ringing
+YnsxAMfzY_Wo_160.000_170.000.wav	speech
+YofDKJJpUhuY_80.000_90.000.wav	alarm bell ringing
+YOTsn73eqbfc_10.000_20.000.wav	alarm bell ringing
+YP-svHk3eMiU_60.000_70.000.wav	speech
+YqEK2iFg_wT8_120.000_130.000.wav	electric shaver toothbrush
+YqEK2iFg_wT8_120.000_130.000.wav	speech
+YQmGZDxks87s_100.000_110.000.wav	running water
+YQmGZDxks87s_100.000_110.000.wav	speech
+YqslWda0kTxA_50.000_60.000.wav	electric shaver toothbrush
+YqslWda0kTxA_50.000_60.000.wav	speech
+YRcquN5Lwo34_0.000_10.000.wav	running water
+YRfbN44xVLWU_150.000_160.000.wav	running water
+YRzxOif-w7mE_0.000_10.000.wav	dishes
+YRzxOif-w7mE_0.000_10.000.wav	speech
+YSb0N-XshN-c_410.000_420.000.wav	alarm bell ringing
+YSb0N-XshN-c_410.000_420.000.wav	speech
+YS_dR6POcFiw_0.000_10.000.wav	running water
+YS_dR6POcFiw_0.000_10.000.wav	speech
+YSuKtxWhkWjo_40.000_50.000.wav	alarm bell ringing
+YT04eSlGI3K0_20.000_30.000.wav	electric shaver toothbrush
+YTNo-Rtxix7s_220.000_230.000.wav	running water
+YTUOyN4QdPyY_160.000_170.000.wav	dishes
+YTUOyN4QdPyY_160.000_170.000.wav	frying
+YTUOyN4QdPyY_160.000_170.000.wav	speech
+YU7iyCO9sKxA_360.000_370.000.wav	alarm bell ringing
+YU7iyCO9sKxA_360.000_370.000.wav	speech
+YUl2QoW9nNls_50.000_60.000.wav	running water
+Y_URfKwl2kYU_130.000_140.000.wav	electric shaver toothbrush
+YV6DOcZCxgXM_50.000_60.000.wav	cat
+YV6DOcZCxgXM_50.000_60.000.wav	running water
+YvKMwxK8ZLYM_50.000_60.000.wav	electric shaver toothbrush
+YvKMwxK8ZLYM_50.000_60.000.wav	speech
+YWC41jM0L1i4_0.000_10.000.wav	alarm bell ringing
+YX_Yu2jbBmVc_3.000_13.000.wav	alarm bell ringing
+Y-YmyB631yvU_40.000_50.000.wav	dishes
+Y-YmyB631yvU_40.000_50.000.wav	speech
+Y-z9G9RrH9so_320.000_330.000.wav	speech
+YzmEIzXrDprw_0.000_10.000.wav	alarm bell ringing
+YzmEIzXrDprw_0.000_10.000.wav	speech
+YNtJdN5aK1-U_0.000_10.000.wav	cat
+YOay1RB-XX1Q_30.000_40.000.wav	cat
+YNhK4rKkO0Kg_0.000_10.000.wav	cat
+YOUCFQe0sQ1A_30.000_40.000.wav	cat
+YOUCFQe0sQ1A_30.000_40.000.wav	dog
+YOWbtxdq5rvQ_30.000_40.000.wav	cat
+YO0MNy3e8lKg_10.000_20.000.wav	cat
+YO0MNy3e8lKg_10.000_20.000.wav	speech
+YPCKQqHeRNyA_3.000_13.000.wav	cat
+YPCKQqHeRNyA_3.000_13.000.wav	speech
+YO8pAsSYXXJU_0.000_10.000.wav	cat
+YNZmsa3iVJuA_0.000_10.000.wav	cat
+YPB5FosTwM8s_10.000_20.000.wav	cat
+YPB5FosTwM8s_10.000_20.000.wav	dog
+YAE6gWkABu8E_40.000_50.000.wav	cat
+YPE7xP2QidgY_60.000_70.000.wav	cat
+YOtA_FyCE9Pc_30.000_40.000.wav	cat
+YOBnP19wnMpY_30.000_40.000.wav	cat
+YAoy3LDCVbq4_50.000_60.000.wav	cat
+YNng-iN9i3p0_30.000_40.000.wav	cat
+YP7TWBwH1INo_20.000_30.000.wav	cat
+YABLvFa4x8lE_30.000_40.000.wav	cat
+Y4sXEkabHrvA_30.000_40.000.wav	frying
+Y4jZjNhgM7s4_14.000_24.000.wav	dog
+Y4jW7xTLOjtc_43.000_53.000.wav	dog
+Y4p-h_aOrhIw_30.000_40.000.wav	dog
+Y4l3JJm8sqIs_21.000_31.000.wav	dog
+Y4l3JJm8sqIs_21.000_31.000.wav	speech
+Y4hlcTX9Z1gM_20.000_30.000.wav	speech
+Y4hQgFX4vxi4_30.000_40.000.wav	dog
+Y4us3Rc0Wd84_23.000_33.000.wav	dog
+Y4yewJ_-Ty1M_30.000_40.000.wav	dog
+Y4trGKbbTmC4_30.000_40.000.wav	dog
+Y4l7clomhvPs_30.000_40.000.wav	dog
+Y4nVnNB8op10_80.000_90.000.wav	dog
+Y4sTQvJtsuSg_50.000_60.000.wav	dog
+Y4vSnw4-qFao_14.000_24.000.wav	dog
+Y4gq5IKSASSQ_30.000_40.000.wav	dog
+Y4iq45VX3t_g_10.000_20.000.wav	dog
+Y4iFnpH_6Ds4_30.000_40.000.wav	dog
+Y4iFnpH_6Ds4_30.000_40.000.wav	speech
+Y4tPbGCPs-0c_30.000_40.000.wav	dog
+Y4h_PCLPoqXE_0.000_5.000.wav	dog
+Y4h_PCLPoqXE_0.000_5.000.wav	speech
+Y4lSgkwwWztM_140.000_150.000.wav	dog
+Y4nJGYImVuSk_12.000_22.000.wav	cat
+Y4fa2gc6Sisc_30.000_40.000.wav	dog
+Y4gyda6wcww0_30.000_40.000.wav	dog
+Y4jaU_R0rhC8_10.000_20.000.wav	dog
+Y4jZzjKi02K0_80.000_90.000.wav	dog
+Y4xw5z5u9Mtk_24.000_34.000.wav	dog
+Y4qYFfG3og0M_10.000_20.000.wav	dog
+Y4vnbVLfn0DU_30.000_40.000.wav	dog
+YSb0169-lqLs_0.000_9.000.wav	none
+Y9OqtuFGCCR8_30.000_40.000.wav	alarm bell ringing
+YVWwk76SEAno_0.000_9.000.wav	dishes
+YIBGfcPIw-KY_0.000_10.000.wav	dog
+YGrOGLM09GPQ_110.000_120.000.wav	blender
+YGrOGLM09GPQ_110.000_120.000.wav	speech
+Y2KhtV4TsZ3M_120.000_130.000.wav	dishes
+Y2KhtV4TsZ3M_120.000_130.000.wav	frying
+YXecb_5XO81Q_10.000_20.000.wav	dog
+YXecb_5XO81Q_10.000_20.000.wav	speech
+Y-TN-8OnbpPQ_170.000_180.000.wav	blender
+Y-TN-8OnbpPQ_170.000_180.000.wav	speech
+YB_1nw6kapnw_40.000_50.000.wav	cat
+YB_1nw6kapnw_40.000_50.000.wav	speech
+YRr84-EZvO0U_90.000_100.000.wav	cat
+Y49efBAywR9Y_150.000_160.000.wav	alarm bell ringing
+Y49efBAywR9Y_150.000_160.000.wav	speech
+Yzh4tznWde1M_330.000_340.000.wav	cat
+YPLT9NHo2XHw_30.000_40.000.wav	blender
+YPLT9NHo2XHw_30.000_40.000.wav	speech
+Y7NyLkxUSPCQ_6.000_16.000.wav	cat
+Y7NyLkxUSPCQ_6.000_16.000.wav	speech
+Y_gQFB_Utuf0_30.000_40.000.wav	cat
+Y0QTme5iyg4A_160.000_170.000.wav	none
+Y6dgTnGDYiZc_9.000_19.000.wav	cat
+Y6dgTnGDYiZc_9.000_19.000.wav	speech
+YzY_7jujh3t4_300.000_310.000.wav	frying
+YzY_7jujh3t4_300.000_310.000.wav	speech
+YaE-_vO4AagE_70.000_80.000.wav	speech
+YOV8eysG8KEk_1.000_11.000.wav	cat
+YOV8eysG8KEk_1.000_11.000.wav	speech
+Y3kx-UhywUf0_20.000_30.000.wav	vacuum cleaner
+YLPvJFjsxMj8_30.000_40.000.wav	cat
+YYn2KgQjK5R4_200.000_210.000.wav	running water
+YYn2KgQjK5R4_200.000_210.000.wav	speech
+YnF0pJOjN0gw_120.000_130.000.wav	alarm bell ringing
+YnF0pJOjN0gw_120.000_130.000.wav	speech
+Yg6qq3GHA9t0_150.000_160.000.wav	frying
+Yg6qq3GHA9t0_150.000_160.000.wav	speech
+YB5u3PG7PWDE_30.000_40.000.wav	vacuum cleaner
+YL3SIlxdLGxI_340.000_350.000.wav	electric shaver toothbrush
+YL3SIlxdLGxI_340.000_350.000.wav	speech
+YVqxBVNBNaLc_160.000_170.000.wav	vacuum cleaner
+YQFnwnAHcttY_30.000_40.000.wav	running water
+YQFnwnAHcttY_30.000_40.000.wav	speech
+YerYO0AUJDUQ_120.000_130.000.wav	vacuum cleaner
+YNpBpCvW0Rus_60.000_70.000.wav	electric shaver toothbrush
+YIpqtJmqY4-w_200.000_210.000.wav	dog
+Y077aWlQn6XI_30.000_40.000.wav	speech
+Y8xoenlVVBZw_30.000_40.000.wav	speech
+YHyX9bWXA3Bk_40.000_50.000.wav	dog
+YHyX9bWXA3Bk_40.000_50.000.wav	speech
+YJwhuPQxlCpg_30.000_40.000.wav	running water
+YJwhuPQxlCpg_30.000_40.000.wav	speech
+YF5Y7BniaRXg_30.000_40.000.wav	speech
+YTM23x21Qs2Q_30.000_40.000.wav	dog
+YTM23x21Qs2Q_30.000_40.000.wav	speech
+Y04ChQ0fqzxQ_120.000_130.000.wav	speech
+YOFhMVCVS3xI_270.000_280.000.wav	speech
+YOFhMVCVS3xI_270.000_280.000.wav	vacuum cleaner
+YCh5_-jvmUwQ_14.000_24.000.wav	alarm bell ringing
+Yqb50ye-3OJU_60.000_70.000.wav	running water
+Yqb50ye-3OJU_60.000_70.000.wav	speech
+Yn5jbdl4kk-0_100.000_110.000.wav	speech
+Yn5jbdl4kk-0_100.000_110.000.wav	vacuum cleaner
+YN6e5C5sXdBI_0.000_10.000.wav	dog
+Y-AeiYb4vDK0_340.000_350.000.wav	speech
+Y0oI0BvmTLvA_20.000_30.000.wav	none
+YEeGWe8e_2jg_30.000_40.000.wav	dog
+YEeGWe8e_2jg_30.000_40.000.wav	speech
+YMgD5JedaXGs_20.000_30.000.wav	dog
+Yk72FzEY2C7w_130.000_140.000.wav	frying
+Yk72FzEY2C7w_130.000_140.000.wav	speech
+Y-vZ-_4oFCzs_17.000_27.000.wav	cat
+Y-Gr9P8Abnlk_110.000_120.000.wav	running water
+Y-Gr9P8Abnlk_110.000_120.000.wav	speech
+YWEcspBO2MkA_10.000_20.000.wav	speech
+YWEcspBO2MkA_10.000_20.000.wav	vacuum cleaner
+Y4ByUnyBjmSs_80.000_90.000.wav	speech
+YPyt8O3N6-wk_110.000_120.000.wav	cat
+Y31c2kosdtuo_20.000_30.000.wav	alarm bell ringing
+Y31c2kosdtuo_20.000_30.000.wav	dog
+YKyMT2DRBqTo_40.000_50.000.wav	dishes
+YKyMT2DRBqTo_40.000_50.000.wav	frying
+YKyMT2DRBqTo_40.000_50.000.wav	speech
+Ydy7klgwlfNs_280.000_290.000.wav	dishes
+Ydy7klgwlfNs_280.000_290.000.wav	speech
+Y-rrK6gbh3so_0.000_10.000.wav	speech
+YXPwJUqBkTBg_110.000_120.000.wav	blender
+YsAGJCkak8V0_60.000_70.000.wav	dishes
+YsAGJCkak8V0_60.000_70.000.wav	frying
+YAm5GHLnpl44_30.000_40.000.wav	dishes
+YMkqLRewM5jM_221.000_231.000.wav	frying
+Yaj1pv3GKtZY_60.000_70.000.wav	alarm bell ringing
+Yaj1pv3GKtZY_60.000_70.000.wav	speech
+YC7TihoHf_hM_20.000_30.000.wav	alarm bell ringing
+YC7TihoHf_hM_20.000_30.000.wav	speech
+Y1nx8b3U8ZqA_95.000_105.000.wav	speech
+YDvNGnkY_S6I_50.000_60.000.wav	alarm bell ringing
+Y2rW2I6KmWhw_30.000_40.000.wav	speech
+YoWNUJ268q0Y_43.000_53.000.wav	dishes
+YoWNUJ268q0Y_43.000_53.000.wav	speech
+Y6A9tDfvsZC0_30.000_40.000.wav	dishes
+Y6A9tDfvsZC0_30.000_40.000.wav	dog
+YW3dVAwDrvfc_450.000_460.000.wav	blender
+YW3dVAwDrvfc_450.000_460.000.wav	frying
+Y4Aj7Skyn1fs_260.000_270.000.wav	blender
+Y4Aj7Skyn1fs_260.000_270.000.wav	speech
+Yuatz5FiIO7c_180.000_190.000.wav	dishes
+Yuatz5FiIO7c_180.000_190.000.wav	frying
+Yuatz5FiIO7c_180.000_190.000.wav	speech
+YBQPk4cmN__4_30.000_40.000.wav	dog
+YBQPk4cmN__4_30.000_40.000.wav	speech
+Ylf_LWKZfNQI_300.000_310.000.wav	blender
+YUj2Os8tYIIQ_400.000_410.000.wav	dishes
+YUj2Os8tYIIQ_400.000_410.000.wav	speech
+YXqbh1sm95w4_240.000_250.000.wav	alarm bell ringing
+YXqbh1sm95w4_240.000_250.000.wav	electric shaver toothbrush
+YXqbh1sm95w4_240.000_250.000.wav	speech
+YWGYzVpMeSEg_210.000_220.000.wav	vacuum cleaner
+YqqCm76Jtktc_150.000_160.000.wav	alarm bell ringing
+YqqCm76Jtktc_150.000_160.000.wav	speech
+YIK9DLm06eLQ_60.000_70.000.wav	alarm bell ringing
+YIK9DLm06eLQ_60.000_70.000.wav	speech
+Y-0CamVQdP_Y_0.000_6.000.wav	speech
+YNfSea2VFxJc_0.000_6.000.wav	alarm bell ringing
+YNJObNgIHwUw_0.000_10.000.wav	dog
+YNJObNgIHwUw_0.000_10.000.wav	speech
+Y4VSHxW4Bepo_48.000_58.000.wav	running water
+Y4VSHxW4Bepo_48.000_58.000.wav	speech
+YLaaz6hgQ940_110.000_120.000.wav	speech
+Y-fmmdkXn5YA_210.000_220.000.wav	speech
+YMr2kGT6i7e4_20.000_30.000.wav	dog
+YMr2kGT6i7e4_20.000_30.000.wav	speech
+Y-8Mzg0pjOzc_30.000_40.000.wav	blender
+Y-A3zsFeU_OI_30.000_40.000.wav	speech
+Y8W82WdRBx4E_20.000_30.000.wav	alarm bell ringing
+Y2yX9079mMB4_3.000_13.000.wav	none
+Y0BgI0XxW0kE_340.000_350.000.wav	running water
+YySP__fCD5AQ_20.000_30.000.wav	running water
+Y1GMWn4IxVro_100.000_110.000.wav	frying
+Y1GMWn4IxVro_100.000_110.000.wav	speech
+Y-Bx_-I7sB5k_160.000_170.000.wav	running water
+Ykdf1gSHWMKE_120.000_130.000.wav	electric shaver toothbrush
+Ykdf1gSHWMKE_120.000_130.000.wav	speech
+YpqQCdtURruc_0.000_8.000.wav	alarm bell ringing
+YpqQCdtURruc_0.000_8.000.wav	speech
+YjH6-RU2or84_40.000_50.000.wav	running water
+YX-jJxA53SFI_130.000_140.000.wav	blender
+Y7MXamVgKszI_30.000_40.000.wav	cat
+YY7KoFD3AEx8_74.000_84.000.wav	blender
+YY7KoFD3AEx8_74.000_84.000.wav	speech
+Y8mT-l6lcBsk_260.000_270.000.wav	cat
+Y8mT-l6lcBsk_260.000_270.000.wav	speech
+Y5ccSyFBJWgQ_200.000_210.000.wav	frying
+Y5ccSyFBJWgQ_200.000_210.000.wav	speech
+Y2peFmuYqSDo_60.000_70.000.wav	cat
+Y2peFmuYqSDo_60.000_70.000.wav	dishes
+Y2peFmuYqSDo_60.000_70.000.wav	dog
+Y2peFmuYqSDo_60.000_70.000.wav	speech
+Yb4YHnRrkOTQ_470.000_480.000.wav	dishes
+Yb4YHnRrkOTQ_470.000_480.000.wav	frying
+YOpsC1fCg4IU_170.000_180.000.wav	electric shaver toothbrush
+YOpsC1fCg4IU_170.000_180.000.wav	speech
+YOpsC1fCg4IU_170.000_180.000.wav	vacuum cleaner
+YwAl_7IDYfVc_160.000_170.000.wav	blender
+Y01SaXyGY5SM_30.000_40.000.wav	cat
+Y-xfgovG6-KU_30.000_40.000.wav	speech
+YBhvCHECgwY0_120.000_130.000.wav	blender
+YBhvCHECgwY0_120.000_130.000.wav	speech
+YQiFBbt-6yfU_0.000_10.000.wav	cat
+YUxCK01Y16S4_290.000_300.000.wav	running water
+YgWWts-XQiTI_30.000_40.000.wav	alarm bell ringing
+YMFAttF_l0LY_30.000_40.000.wav	electric shaver toothbrush
+Y2y7aiiaJPf8_240.000_250.000.wav	running water
+YmH0qxsxLypw_80.000_90.000.wav	cat
+Y--i-y1v8Hy8_0.000_9.000.wav	none
+YBvQz8thsH1A_230.000_240.000.wav	running water
+YBvQz8thsH1A_230.000_240.000.wav	speech
+YsUgI8M_Ln2g_320.000_330.000.wav	frying
+YsUgI8M_Ln2g_320.000_330.000.wav	speech
+Y89-cWFtXz_U_270.000_280.000.wav	speech
+YkjGjMDpTzvs_320.000_330.000.wav	speech
+Y0Mba3BS1oRM_30.000_40.000.wav	running water
+Y0Mba3BS1oRM_30.000_40.000.wav	speech
+YGl4VW2wZcuM_1.000_11.000.wav	alarm bell ringing
+YPX9kGT0E7B0_30.000_40.000.wav	dog
+YEhmWEYp0vno_190.000_200.000.wav	dog
+YEhmWEYp0vno_190.000_200.000.wav	speech
+Y-nJbGyPg6BY_60.000_70.000.wav	running water
+Y-nJbGyPg6BY_60.000_70.000.wav	speech
+YcJv6x6TN1bw_480.000_490.000.wav	frying
+YhGMrZZaTRSE_450.000_460.000.wav	speech
+YhGMrZZaTRSE_450.000_460.000.wav	vacuum cleaner
+YCWhcGT6pno4_120.000_130.000.wav	blender
+Y_AfYlb7oEsg_330.000_340.000.wav	running water
+Y_AfYlb7oEsg_330.000_340.000.wav	speech
+Y-jDJ7EqnT2s_170.000_180.000.wav	speech
+Y-jDJ7EqnT2s_170.000_180.000.wav	vacuum cleaner
+YBAcOXGA5Na8_30.000_40.000.wav	electric shaver toothbrush
+YBAcOXGA5Na8_30.000_40.000.wav	speech
+YM_3Mk2nMydQ_30.000_40.000.wav	speech
+YM_3Mk2nMydQ_30.000_40.000.wav	vacuum cleaner
+YhEm2oWVXj3g_70.000_80.000.wav	blender
+YhEm2oWVXj3g_70.000_80.000.wav	speech
+Ye0SHMVK7cec_170.000_180.000.wav	alarm bell ringing
+Yj4QXK7I4kfk_30.000_40.000.wav	cat
+Yj4QXK7I4kfk_30.000_40.000.wav	speech
+YeCAemGkLJxk_150.000_160.000.wav	blender
+YeCAemGkLJxk_150.000_160.000.wav	speech
+YClxksvHH8Xs_320.000_330.000.wav	none
+YFN9mktgYZJ8_30.000_40.000.wav	blender
+YFN9mktgYZJ8_30.000_40.000.wav	speech
+YINZwiQGobsQ_580.000_590.000.wav	alarm bell ringing
+YFHuxuM-iRo4_160.000_170.000.wav	dishes
+YFHuxuM-iRo4_160.000_170.000.wav	speech
+YV0gj0EFXIyk_250.000_260.000.wav	electric shaver toothbrush
+YV0gj0EFXIyk_250.000_260.000.wav	speech
+Y9q9pzXBPGtM_30.000_40.000.wav	none
+Y2vzUFWykARU_20.000_30.000.wav	running water
+Y3AzacBprTzU_60.000_70.000.wav	dog
+Yl78ooOwvRyY_0.000_6.000.wav	dishes
+YVRXOgXfC3EU_169.000_179.000.wav	speech
+YuGbVK-U30dE_30.000_40.000.wav	alarm bell ringing
+Y5-SzNKBcPWs_30.000_40.000.wav	dog
+YIPIS6TUVpSM_30.000_40.000.wav	speech
+YIPIS6TUVpSM_30.000_40.000.wav	vacuum cleaner
+YUrluLxHLwQM_110.000_120.000.wav	speech
+Y-fAGzY9rnaA_30.000_40.000.wav	speech
+YScwMaXCZC7M_0.000_10.000.wav	alarm bell ringing
+Y4IvFk-bZ0-M_20.000_30.000.wav	cat
+Y4IvFk-bZ0-M_20.000_30.000.wav	dog
+Y4IvFk-bZ0-M_20.000_30.000.wav	speech
+YqMDpBAs38EA_10.000_20.000.wav	running water
+YqMDpBAs38EA_10.000_20.000.wav	speech
+YzF_6B6QIYdA_20.000_30.000.wav	electric shaver toothbrush
+YzF_6B6QIYdA_20.000_30.000.wav	speech
+Y-jZENGDFArw_80.000_90.000.wav	speech
+YnN8fv4eZ7FM_350.000_360.000.wav	electric shaver toothbrush
+Y6UY-HKyolKk_30.000_40.000.wav	cat
+Y6UY-HKyolKk_30.000_40.000.wav	speech
+Y-UKH_6moRZc_180.000_190.000.wav	running water
+Y-UKH_6moRZc_180.000_190.000.wav	speech
+YqCMCR45l55c_30.000_40.000.wav	none
+Y3Qli5msTyH8_150.000_160.000.wav	dishes
+Y3Qli5msTyH8_150.000_160.000.wav	frying
+Y3Qli5msTyH8_150.000_160.000.wav	speech
+YRDnrb0xSkrs_70.000_80.000.wav	speech
+YRDnrb0xSkrs_70.000_80.000.wav	vacuum cleaner
+YuoCay5JXnn4_0.000_10.000.wav	running water
+YDTyjtZZRKH8_30.000_40.000.wav	running water
+Y3qesirWAGt4_20.000_30.000.wav	dog
+YKIudjmj3ac4_390.000_400.000.wav	dishes
+YR-KzhZBuz-0_200.000_210.000.wav	blender
+Yt7kNT5K16js_550.000_560.000.wav	blender
+Yt7kNT5K16js_550.000_560.000.wav	speech
+YfPC2b7tRXfQ_480.000_490.000.wav	blender
+YfPC2b7tRXfQ_480.000_490.000.wav	speech
+Y1WGfcIOLUK8_30.000_40.000.wav	dog
+Y2gvw16YDwMA_30.000_40.000.wav	cat
+Y2gvw16YDwMA_30.000_40.000.wav	speech
+YSUFOgc9Pkd8_30.000_40.000.wav	dog
+YSUFOgc9Pkd8_30.000_40.000.wav	speech
+Yd_3P7vuZwUY_190.000_200.000.wav	dishes
+YwRgusJ3Jil0_30.000_40.000.wav	running water
+YwRgusJ3Jil0_30.000_40.000.wav	speech
+Y0-Hzui4Qpl4_40.000_50.000.wav	dishes
+Y0-Hzui4Qpl4_40.000_50.000.wav	speech
+Yiwlg338ja-k_360.000_370.000.wav	alarm bell ringing
+Yiwlg338ja-k_360.000_370.000.wav	speech
+YLyIhmCTPLUc_30.000_40.000.wav	cat
+YLyIhmCTPLUc_30.000_40.000.wav	speech
+YpTeGV9qRyL8_210.000_220.000.wav	dishes
+YpTeGV9qRyL8_210.000_220.000.wav	frying
+YpTeGV9qRyL8_210.000_220.000.wav	speech
+YdulZ4FPi7gg_170.000_180.000.wav	running water
+YdulZ4FPi7gg_170.000_180.000.wav	speech
+Y0H25ve3qts4_1.000_11.000.wav	speech
+YVtmm8XY8cko_310.000_320.000.wav	dishes
+YUoelVWyciuE_10.000_20.000.wav	cat
+YZRBWFeHPegQ_220.000_230.000.wav	electric shaver toothbrush
+YZRBWFeHPegQ_220.000_230.000.wav	speech
+YDqGNQbGXbcc_90.000_100.000.wav	alarm bell ringing
+YU5udL6UCigk_100.000_110.000.wav	running water
+Y055kC3FYxK0_11.000_21.000.wav	speech
+Y1D4LxbOVn1I_30.000_40.000.wav	dog
+Y-lK7eYXq2ZQ_30.000_40.000.wav	alarm bell ringing
+Y0dXtmlR1Lm0_30.000_40.000.wav	none
+YOuxjt5e8x-o_50.000_60.000.wav	alarm bell ringing
+YOuxjt5e8x-o_50.000_60.000.wav	speech
+YOuxjt5e8x-o_50.000_60.000.wav	vacuum cleaner
+YgWClkWgWVkQ_30.000_40.000.wav	electric shaver toothbrush
+YgWClkWgWVkQ_30.000_40.000.wav	speech
+YDieCnMS0G8k_80.000_90.000.wav	blender
+YhD5x033ZPnk_40.000_50.000.wav	cat
+YU7WkuGO-lps_20.000_30.000.wav	running water
+YOPN5i2GyhZM_130.000_140.000.wav	speech
+Yvk8iuyRv1qI_260.000_270.000.wav	blender
+Yvk8iuyRv1qI_260.000_270.000.wav	speech
+YUCsiHG_4wkk_0.000_10.000.wav	alarm bell ringing
+Y-fz6omiAhZ8_40.000_50.000.wav	speech
+YP-QOd_28o9c_30.000_40.000.wav	alarm bell ringing
+YP-QOd_28o9c_30.000_40.000.wav	speech
+Y-Irh7_N5Kjs_2.000_12.000.wav	speech
+YIZ_zfkNcxRQ_61.000_71.000.wav	vacuum cleaner
+Y-Sd-j0rKeKw_30.000_40.000.wav	speech
+Yl2RKDnvKjPc_150.000_160.000.wav	frying
+Yl2RKDnvKjPc_150.000_160.000.wav	speech
+YJ46ePPdaEZk_10.000_20.000.wav	electric shaver toothbrush
+YJ46ePPdaEZk_10.000_20.000.wav	speech
+Yk2GF-95Rn-U_210.000_220.000.wav	speech
+Yk2GF-95Rn-U_210.000_220.000.wav	vacuum cleaner
+Y0s6Vt4i3iiQ_40.000_50.000.wav	electric shaver toothbrush
+YXHKAWWnw4aQ_130.000_140.000.wav	dishes
+YXHKAWWnw4aQ_130.000_140.000.wav	frying
+YEmPv3XBRi-w_50.000_60.000.wav	running water
+YWFJ96PH4rvo_20.000_30.000.wav	dog
+YWFJ96PH4rvo_20.000_30.000.wav	speech
+Y-TxhuS0jsI4_70.000_80.000.wav	running water
+YWzmlUCUX6WM_70.000_80.000.wav	running water
+YWzmlUCUX6WM_70.000_80.000.wav	speech
+Ym5I_M9d80Wg_30.000_40.000.wav	cat
+Ym5I_M9d80Wg_30.000_40.000.wav	speech
+YbUZQeCVNzKc_140.000_150.000.wav	dishes
+YMUJmWnjGEBk_0.000_10.000.wav	speech
+YXwhCwPTpKQw_400.000_410.000.wav	running water
+YXwhCwPTpKQw_400.000_410.000.wav	speech
+Y7-COxzRtOEU_30.000_40.000.wav	running water
+YIEC8cLcZ6IE_170.000_180.000.wav	electric shaver toothbrush
+YKRdvyjpQfoI_0.000_10.000.wav	dog
+YXik6KV1fiMg_210.000_220.000.wav	electric shaver toothbrush
+YXik6KV1fiMg_210.000_220.000.wav	speech
+YJjqHDGzcz6c_100.000_110.000.wav	vacuum cleaner
+Y5aPt9TjkIZA_50.000_60.000.wav	running water
+YQH942mm-ffs_0.000_10.000.wav	running water
+YuA3bpAQV_hE_0.000_8.000.wav	none
+Y-zCtwbk005g_30.000_40.000.wav	alarm bell ringing
+Ysgkwq9a7mgU_0.000_10.000.wav	speech
+YQhlmKHbPFhU_30.000_40.000.wav	speech
+YQhlmKHbPFhU_30.000_40.000.wav	vacuum cleaner
+Y04ISXje8c_g_11.000_21.000.wav	speech
+Y-qfsR2ZEUcw_30.000_40.000.wav	electric shaver toothbrush
+Y-qfsR2ZEUcw_30.000_40.000.wav	speech
+YbVvJzXMLaS8_0.000_10.000.wav	alarm bell ringing
+Y-t-htrAtNvM_30.000_40.000.wav	alarm bell ringing
+YmzcLIsIS050_490.000_500.000.wav	frying
+YmzcLIsIS050_490.000_500.000.wav	speech
+Y5H-b1D1mtk8_10.000_20.000.wav	running water
+Y5zpubyVa1D0_270.000_280.000.wav	frying
+Y5zpubyVa1D0_270.000_280.000.wav	speech
+YSoYE9FbuU7E_140.000_150.000.wav	frying
+YSoYE9FbuU7E_140.000_150.000.wav	speech
+YJCQHV_YHSEI_30.000_40.000.wav	none
+YRe2zKQIZXE4_550.000_560.000.wav	dishes
+YRe2zKQIZXE4_550.000_560.000.wav	speech
+YMqhi83-ntG4_340.000_350.000.wav	alarm bell ringing
+YMqhi83-ntG4_340.000_350.000.wav	speech
+Y-bNJ9olw-OE_540.000_550.000.wav	electric shaver toothbrush
+Y-bNJ9olw-OE_540.000_550.000.wav	speech
+YNF1lwZ24RYI_30.000_40.000.wav	dog
+YYqU9Dg5G6QA_6.000_16.000.wav	alarm bell ringing
+Yx08TBhoCjQg_260.000_270.000.wav	blender
+YPUwNDssbDXw_0.000_10.000.wav	running water
+Y09RRavdW3C0_30.000_40.000.wav	running water
+Y3TyBFLPxDw8_0.000_9.000.wav	dog
+Y3TyBFLPxDw8_0.000_9.000.wav	speech
+YLf9Ll9KOBfY_320.000_330.000.wav	running water
+YLf9Ll9KOBfY_320.000_330.000.wav	speech
+Y75PJeJ2hGcw_30.000_40.000.wav	cat
+Y75PJeJ2hGcw_30.000_40.000.wav	dog
+YvATUVASx8ug_0.000_10.000.wav	none
+Y0MH_VX7PnQQ_30.000_40.000.wav	dog
+Y0MH_VX7PnQQ_30.000_40.000.wav	speech
+Ye4VoLbOdkIE_180.000_190.000.wav	electric shaver toothbrush
+Ye4VoLbOdkIE_180.000_190.000.wav	speech
+Y8JgqLELdUkY_30.000_40.000.wav	cat
+Y7qempAwNceA_150.000_160.000.wav	none
+YRQT5ssY1B68_30.000_40.000.wav	none
+YkjhwyGWGDkY_30.000_40.000.wav	alarm bell ringing
+YkjhwyGWGDkY_30.000_40.000.wav	speech
+YTY4tkJAQ1Qg_20.000_30.000.wav	dog
+YTY4tkJAQ1Qg_20.000_30.000.wav	speech
+Yjw7wqfei3Fw_20.000_30.000.wav	alarm bell ringing
+Yjw7wqfei3Fw_20.000_30.000.wav	speech
+Y9DJVHVONlao_60.000_70.000.wav	alarm bell ringing
+Y9DJVHVONlao_60.000_70.000.wav	speech
+Y-lJctvybAJ8_30.000_40.000.wav	speech
+Y5569EtjDU_M_290.000_300.000.wav	dishes
+Y5569EtjDU_M_290.000_300.000.wav	frying
+Y5569EtjDU_M_290.000_300.000.wav	speech
+Yv_7PRrXgkbs_70.000_80.000.wav	dog
+YxwQh1sOc1YE_10.000_20.000.wav	running water
+Y08Ua8a01P5g_13.000_23.000.wav	speech
+Y08Ua8a01P5g_13.000_23.000.wav	vacuum cleaner
+YWcPOGKf6RE8_110.000_120.000.wav	dog
+Y-VLOm8cJZRI_70.000_80.000.wav	none
+YskSyu-Q5nZI_0.000_10.000.wav	cat
+YCQGQV-JxPoI_30.000_40.000.wav	cat
+YCQGQV-JxPoI_30.000_40.000.wav	speech
+Y-21_SXelVNo_30.000_40.000.wav	none
+YT9RmxPrs2AY_0.000_10.000.wav	alarm bell ringing
+Y0J3wJhQVOII_260.000_270.000.wav	alarm bell ringing
+Ys2rKr07YOiM_110.000_120.000.wav	cat
+YU8kJ9DFX6S0_140.000_150.000.wav	running water
+YU8kJ9DFX6S0_140.000_150.000.wav	speech
+Y-hJ1YTZ5AGI_30.000_40.000.wav	none
+YJErx-AImWqk_0.000_10.000.wav	dog
+Y1MP3sQTk8wo_0.000_10.000.wav	dog
+YExPMwoIHO8M_10.000_20.000.wav	alarm bell ringing
+YExPMwoIHO8M_10.000_20.000.wav	speech
+Y6mEVsmeDknA_30.000_40.000.wav	dog
+Y8CrTpWNBiTo_120.000_130.000.wav	dog
+Y1jgxLsJ7XkM_90.000_100.000.wav	running water
+Y3IW7578PicA_210.000_220.000.wav	dishes
+Y3IW7578PicA_210.000_220.000.wav	frying
+Y3IW7578PicA_210.000_220.000.wav	speech
+YZ0IOolSgtNg_30.000_40.000.wav	alarm bell ringing
+Y20qZLse0acs_30.000_40.000.wav	dog
+Y6Kn4bXCPvaA_30.000_40.000.wav	cat
+Y2bYyywE97aA_30.000_40.000.wav	dog
+Y2bYyywE97aA_30.000_40.000.wav	vacuum cleaner
+YQejVyYvjrrs_10.000_20.000.wav	dog
+YQejVyYvjrrs_10.000_20.000.wav	speech
+Y6Bh50bxvod4_70.000_80.000.wav	running water
+Y6Bh50bxvod4_70.000_80.000.wav	speech
+YRF8fPkV9HNc_10.000_20.000.wav	cat
+Y4Jc8UZHaqHw_19.000_29.000.wav	dog
+Y4Jc8UZHaqHw_19.000_29.000.wav	speech
+YwMXiOt2HHUw_20.000_30.000.wav	vacuum cleaner
+YN6jWCVO38iA_20.000_30.000.wav	running water
+YN6jWCVO38iA_20.000_30.000.wav	speech
+YXzRoWpGfCFE_410.000_420.000.wav	alarm bell ringing
+YXzRoWpGfCFE_410.000_420.000.wav	speech
+YrhhoC11SBi4_0.000_10.000.wav	speech
+YrhhoC11SBi4_0.000_10.000.wav	vacuum cleaner
+YbSxca8xb-Fs_10.000_20.000.wav	alarm bell ringing
+YLMBKhB8SuAg_0.000_10.000.wav	alarm bell ringing
+Y-UoPcgmbIkk_30.000_40.000.wav	speech
+Y4P0lThY7Bnk_30.000_40.000.wav	running water
+Y4P0lThY7Bnk_30.000_40.000.wav	speech
+YYdTpp_Z_8Fo_52.000_62.000.wav	dishes
+YYdTpp_Z_8Fo_52.000_62.000.wav	speech
+YWVIsVp-7Jjc_19.000_29.000.wav	alarm bell ringing
+YWVIsVp-7Jjc_19.000_29.000.wav	speech
+Y-ZJqu_4zLMc_30.000_40.000.wav	dog
+Y-ZJqu_4zLMc_30.000_40.000.wav	speech
+YFWIGDgq_nnM_30.000_40.000.wav	blender
+YFWIGDgq_nnM_30.000_40.000.wav	speech
+YWdIsOZQHeBY_30.000_40.000.wav	dog
+YSkPEiTqLlf0_30.000_40.000.wav	none
+Y-FoTxwPOz3U_0.000_10.000.wav	speech
+YCmC62Eg82E8_7.000_17.000.wav	vacuum cleaner
+YLQdCy79W9Vw_20.000_30.000.wav	speech
+Yyu3ov27D928_30.000_40.000.wav	speech
+Yyu3ov27D928_30.000_40.000.wav	vacuum cleaner
+Y-36qTeAdDMI_130.000_140.000.wav	alarm bell ringing
+YWubFWxjQrC4_20.000_30.000.wav	alarm bell ringing
+Y6OAXLFoBpLY_0.000_10.000.wav	cat
+Y-UTdhK0lwuw_30.000_40.000.wav	running water
+YPTUxCvCz8Bc_170.000_180.000.wav	frying
+YPTUxCvCz8Bc_170.000_180.000.wav	speech
+Yicmx2wzE7KM_210.000_220.000.wav	running water
+Yicmx2wzE7KM_210.000_220.000.wav	speech
+Yxa-lg7S1vns_51.000_61.000.wav	cat
+Y-hA3ZkfDz30_500.000_510.000.wav	speech
+Y-hA3ZkfDz30_500.000_510.000.wav	vacuum cleaner
+YcfEKOEmFxp0_40.000_50.000.wav	cat
+YcfEKOEmFxp0_40.000_50.000.wav	running water
+YcfEKOEmFxp0_40.000_50.000.wav	speech
+Y-BY64_p-vtM_30.000_40.000.wav	speech
+Y-8pCMgGKZY8_12.000_22.000.wav	dog
+Y-8pCMgGKZY8_12.000_22.000.wav	speech
+Y7916WqcPKBA_30.000_40.000.wav	cat
+Y0bO6DhC2tlU_110.000_120.000.wav	frying
+Y0bO6DhC2tlU_110.000_120.000.wav	speech
+YAOijOUuUWwg_100.000_110.000.wav	electric shaver toothbrush
+YAOijOUuUWwg_100.000_110.000.wav	speech
+YbigQH-Nhocc_190.000_200.000.wav	running water
+YbigQH-Nhocc_190.000_200.000.wav	speech
+YzVup1EYXcxA_10.000_20.000.wav	dishes
+Y8ITneSmsrlU_0.000_10.000.wav	speech
+YTim7zUFj1f4_50.000_60.000.wav	dishes
+YTim7zUFj1f4_50.000_60.000.wav	speech
+Y8RK1x263Ou0_100.000_110.000.wav	electric shaver toothbrush
+Y8RK1x263Ou0_100.000_110.000.wav	speech
+Y-gSfPQqi6nI_30.000_40.000.wav	cat
+Y4H5p1W_oS9g_160.000_170.000.wav	running water
+YDwQ1WyGETDY_27.000_37.000.wav	alarm bell ringing
+YDwQ1WyGETDY_27.000_37.000.wav	speech
+Y6hyBe3FO-xI_30.000_40.000.wav	speech
+Y6hyBe3FO-xI_30.000_40.000.wav	vacuum cleaner
+YUlOEjgkNdMU_10.000_20.000.wav	dog
+YUlOEjgkNdMU_10.000_20.000.wav	speech
+YNDtjWqCrP4Y_340.000_350.000.wav	blender
+YNDtjWqCrP4Y_340.000_350.000.wav	speech
+YVm4c-BPmR1c_60.000_70.000.wav	running water
+Y3NRu3vNRFxU_0.000_10.000.wav	dog
+Y3NRu3vNRFxU_0.000_10.000.wav	speech
+YsT0c3VFcq7g_30.000_40.000.wav	cat
+YsT0c3VFcq7g_30.000_40.000.wav	speech
+YsnR9TvRupjU_0.000_10.000.wav	cat
+YsnR9TvRupjU_0.000_10.000.wav	speech
+Yfr043wF1zhA_30.000_40.000.wav	running water
+YEe0RIG8OIeo_230.000_240.000.wav	running water
+YEe0RIG8OIeo_230.000_240.000.wav	speech
+YlUIqPVoadK0_90.000_100.000.wav	dishes
+Y5lw-BHt_rXY_30.000_40.000.wav	cat
+YNgBE9eFXXxA_0.000_10.000.wav	alarm bell ringing
+Y-0p7hKXZ1ww_30.000_40.000.wav	blender
+Y-0p7hKXZ1ww_30.000_40.000.wav	speech
+YPB3VhxPnYIQ_30.000_40.000.wav	alarm bell ringing
+YPB3VhxPnYIQ_30.000_40.000.wav	speech
+YK8yPsF_C8V0_70.000_80.000.wav	running water
+YK8yPsF_C8V0_70.000_80.000.wav	speech
+YMOEE9uo6MCk_20.000_30.000.wav	running water
+YMOEE9uo6MCk_20.000_30.000.wav	speech
+YGc01CEIQnM0_10.000_20.000.wav	alarm bell ringing
+YdB31Es7Z-iU_23.000_33.000.wav	running water
+YwBqBVtBHDTE_30.000_40.000.wav	alarm bell ringing
+YWOOmuXh_lXA_290.000_300.000.wav	dishes
+YWOOmuXh_lXA_290.000_300.000.wav	frying
+YWOOmuXh_lXA_290.000_300.000.wav	speech
+YLH8GnA-aJ_M_180.000_190.000.wav	dishes
+YLH8GnA-aJ_M_180.000_190.000.wav	speech
+YV23UiMHeJF4_0.000_10.000.wav	vacuum cleaner
+Y07mCK08xGRc_10.000_20.000.wav	speech
+Yg_fXHq1Csc4_0.000_10.000.wav	alarm bell ringing
+YE6QQRZHrx6s_30.000_40.000.wav	dog
+YE6QQRZHrx6s_30.000_40.000.wav	speech
+YuE22T4Mlv0I_270.000_280.000.wav	frying
+YSBVvm2xyVLU_380.000_390.000.wav	dishes
+YSBVvm2xyVLU_380.000_390.000.wav	speech
+YReJR84wiUdM_30.000_40.000.wav	alarm bell ringing
+YReJR84wiUdM_30.000_40.000.wav	speech
+YUC3J31Brgnw_22.000_32.000.wav	none
+YPEw6mGXUzs4_130.000_140.000.wav	frying
+YPEw6mGXUzs4_130.000_140.000.wav	speech
+YAW3s9S3xEQ0_0.000_10.000.wav	dog
+Y5ixvBFzG0kc_28.000_38.000.wav	cat
+YCjp2PlXGbf0_30.000_40.000.wav	electric shaver toothbrush
+YtMxA0pghG4k_30.000_40.000.wav	alarm bell ringing
+YjlmyAZSidOQ_290.000_300.000.wav	speech
+Y1TAOyk0Xgss_370.000_380.000.wav	speech
+Y1TAOyk0Xgss_370.000_380.000.wav	vacuum cleaner
+YP15JhIEHVHg_30.000_40.000.wav	dog
+YP15JhIEHVHg_30.000_40.000.wav	speech
+YRxYaU8ucFis_30.000_40.000.wav	alarm bell ringing
+YRxYaU8ucFis_30.000_40.000.wav	speech
+YGaN-YxlcIA4_30.000_40.000.wav	alarm bell ringing
+YGaN-YxlcIA4_30.000_40.000.wav	speech
+YKNFHL6rv_M4_50.000_60.000.wav	blender
+YKNFHL6rv_M4_50.000_60.000.wav	speech
+Y0IMxRf5KZBY_30.000_40.000.wav	running water
+Y0IMxRf5KZBY_30.000_40.000.wav	speech
+YvT8a_9ZDMH4_240.000_250.000.wav	blender
+YvT8a_9ZDMH4_240.000_250.000.wav	speech
+YrlifD4ysMrM_60.000_70.000.wav	cat
+YrlifD4ysMrM_60.000_70.000.wav	speech
+YE-ChpXLfh_E_30.000_40.000.wav	alarm bell ringing
+YE-ChpXLfh_E_30.000_40.000.wav	speech
+YPwC9_vE_rqk_120.000_130.000.wav	cat
+YPwC9_vE_rqk_120.000_130.000.wav	speech
+Y75bMAERnvng_26.000_36.000.wav	cat
+Yg7IQYuMyGrA_180.000_190.000.wav	dishes
+Yg7IQYuMyGrA_180.000_190.000.wav	frying
+Yg7IQYuMyGrA_180.000_190.000.wav	speech
+YdnBRWaI4E38_20.000_30.000.wav	alarm bell ringing
+YdnBRWaI4E38_20.000_30.000.wav	speech
+YwqfXKhIzSNo_110.000_120.000.wav	blender
+Yf_uADyhDDpE_40.000_50.000.wav	none
+YvpWEuOJQYYs_90.000_100.000.wav	alarm bell ringing
+YvpWEuOJQYYs_90.000_100.000.wav	speech
+YuUcUU6NpDUw_30.000_40.000.wav	alarm bell ringing
+YuUcUU6NpDUw_30.000_40.000.wav	running water
+Y0AA0R8gbxcI_30.000_40.000.wav	none
+Y8qMwRaqKt3Y_50.000_60.000.wav	dog
+Y8qMwRaqKt3Y_50.000_60.000.wav	speech
+YLKCyqioKymc_30.000_40.000.wav	alarm bell ringing
+YLKCyqioKymc_30.000_40.000.wav	dishes
+YgsukGIidetE_150.000_160.000.wav	dishes
+YgsukGIidetE_150.000_160.000.wav	frying
+YgsukGIidetE_150.000_160.000.wav	speech
+YcYS85XxZMuE_120.000_130.000.wav	running water
+YD02MlVKuAZU_230.000_240.000.wav	frying
+YD02MlVKuAZU_230.000_240.000.wav	speech
+YzcfvCrX-Lts_130.000_140.000.wav	none
+Y-PyXfNxnHKs_110.000_120.000.wav	speech
+YE81-l2bwh40_190.000_200.000.wav	running water
+Y8TWtLCjUI5I_0.000_7.000.wav	dog
+YQcOjEq9Mt5E_70.000_80.000.wav	speech
+YdxoIUrTn_K8_10.000_20.000.wav	alarm bell ringing
+YdxoIUrTn_K8_10.000_20.000.wav	speech
+YYlLqWCeiVPw_30.000_40.000.wav	cat
+YYlLqWCeiVPw_30.000_40.000.wav	dog
+YQzbTGlIKxKQ_90.000_100.000.wav	electric shaver toothbrush
+YQzbTGlIKxKQ_90.000_100.000.wav	speech
+YaHKqFDRglTM_10.000_20.000.wav	alarm bell ringing
+Y-D--GWwca0g_130.000_140.000.wav	speech
+Y0JKxC7qrgt0_80.000_90.000.wav	alarm bell ringing
+YF7UpJnEONHk_30.000_40.000.wav	blender
+YF7UpJnEONHk_30.000_40.000.wav	speech
+YLdOQ6qtoQ4I_80.000_90.000.wav	cat
+Y0oudYrPGNN8_30.000_40.000.wav	alarm bell ringing
+Y0oudYrPGNN8_30.000_40.000.wav	speech
+YSC9jczwzY-k_30.000_40.000.wav	dog
+Yh6B3KRPKI0c_80.000_90.000.wav	dishes
+YDaaY_n80b2Y_5.000_15.000.wav	dog
+Yp-DFoKuwjAw_180.000_190.000.wav	frying
+Yp-DFoKuwjAw_180.000_190.000.wav	speech
+YD1iGDvdIihk_280.000_290.000.wav	running water
+YD1iGDvdIihk_280.000_290.000.wav	speech
+YyXWFes0S6z0_30.000_40.000.wav	alarm bell ringing
+YhFdTLz4HW78_280.000_290.000.wav	dishes
+YhFdTLz4HW78_280.000_290.000.wav	speech
+YU0eCWcPP798_0.000_8.000.wav	alarm bell ringing
+Y-NrseuJrJ6k_30.000_40.000.wav	dishes
+Y-NrseuJrJ6k_30.000_40.000.wav	speech
+Y-yrutqBKk-U_30.000_40.000.wav	speech
+YwK3BpK1-Apw_30.000_40.000.wav	cat
+YwK3BpK1-Apw_30.000_40.000.wav	speech
+Y-YAyjUL7_xo_200.000_210.000.wav	dishes
+Y-YAyjUL7_xo_200.000_210.000.wav	frying
+Y-YAyjUL7_xo_200.000_210.000.wav	speech
+YSW0qQMAZKfo_30.000_40.000.wav	dog
+YSW0qQMAZKfo_30.000_40.000.wav	speech
+YZhhGkqjCNsM_30.000_40.000.wav	alarm bell ringing
+YZhhGkqjCNsM_30.000_40.000.wav	speech
+YdrKz0IW9_EM_130.000_140.000.wav	blender
+YdrKz0IW9_EM_130.000_140.000.wav	speech
+YEbnAmPYcq1U_0.000_10.000.wav	electric shaver toothbrush
+Yj53tAI-EGcI_30.000_40.000.wav	none
+YCu3D2_yZsls_40.000_50.000.wav	speech
+YQSRjdU4XpGA_10.000_20.000.wav	electric shaver toothbrush
+YMy0YmR6tYAk_60.000_70.000.wav	vacuum cleaner
+Ya2prr9ZiFxA_580.000_590.000.wav	running water
+Ya2prr9ZiFxA_580.000_590.000.wav	speech
+YW7gn2todzbg_30.000_40.000.wav	alarm bell ringing
+YLHY9L1MjQvQ_30.000_40.000.wav	alarm bell ringing
+YAF0CtMb81t8_30.000_40.000.wav	dog
+YAF0CtMb81t8_30.000_40.000.wav	speech
+Yh9vUucEhRN4_90.000_100.000.wav	cat
+Yh9vUucEhRN4_90.000_100.000.wav	speech
+YP_ZTg9UHBHE_30.000_40.000.wav	running water
+YIIAJof41rNs_0.000_10.000.wav	alarm bell ringing
+YemAtRpVf2_A_270.000_280.000.wav	vacuum cleaner
+YPlGrb1DKbao_130.000_140.000.wav	none
+YM34hO-PqzpE_50.000_60.000.wav	vacuum cleaner
+YhykPnezhLZs_20.000_30.000.wav	running water
+Yfjiv34te9vc_30.000_40.000.wav	cat
+YO_1Cqphz0oQ_30.000_40.000.wav	alarm bell ringing
+YKkPrgFi9X6U_20.000_30.000.wav	dishes
+YZRQ3vw3wNQ0_10.000_20.000.wav	vacuum cleaner
+YBiNbPvdPthY_30.000_40.000.wav	speech
+YNyIzowSEuqQ_10.000_20.000.wav	none
+YWvRyg95cUIQ_150.000_160.000.wav	electric shaver toothbrush
+YWvRyg95cUIQ_150.000_160.000.wav	speech
+Y2jKheXvnT6o_30.000_40.000.wav	cat
+YV3zM2JFHN3Q_40.000_50.000.wav	speech
+YZxWfqAhmnpg_50.000_60.000.wav	running water
+YZxWfqAhmnpg_50.000_60.000.wav	speech
+Ysgpy4uk4bB0_90.000_100.000.wav	blender
+Ysgpy4uk4bB0_90.000_100.000.wav	speech
+YF2FjmfvmRa0_20.000_30.000.wav	dog
+YIcOOOLZVXnA_30.000_40.000.wav	alarm bell ringing
+YDqCSTZYskfM_140.000_150.000.wav	electric shaver toothbrush
+YDqCSTZYskfM_140.000_150.000.wav	speech
+YXJsXMIlnWJo_20.000_30.000.wav	dishes
+Yb5CyS0QqX3o_70.000_80.000.wav	none
+YIlqOpkmy4C0_11.000_21.000.wav	alarm bell ringing
+YeB0kQ_zYdHc_180.000_190.000.wav	speech
+YeB0kQ_zYdHc_180.000_190.000.wav	vacuum cleaner
+YFR9qGkCa78M_140.000_150.000.wav	dishes
+YFR9qGkCa78M_140.000_150.000.wav	speech
+Y2QKJuc_Hscc_50.000_60.000.wav	dog
+Y0foC-4n-eH0_0.000_8.000.wav	dog
+Y0foC-4n-eH0_0.000_8.000.wav	speech
+Y-1Hub6Ps_cc_10.000_20.000.wav	running water
+Y-1Hub6Ps_cc_10.000_20.000.wav	speech
+YPrAm5YVvXx8_10.000_20.000.wav	cat
+YQrcL5TkDTD0_0.000_10.000.wav	alarm bell ringing
+YQrcL5TkDTD0_0.000_10.000.wav	cat
+YIUdIAuoqEbM_0.000_10.000.wav	none
+Y6BaCu_ezK4k_300.000_310.000.wav	running water
+Y6BaCu_ezK4k_300.000_310.000.wav	speech
+Ynq4cdrT7zvs_30.000_40.000.wav	alarm bell ringing
+Ynq4cdrT7zvs_30.000_40.000.wav	speech
+Y9q8N_KgH8SI_250.000_260.000.wav	dishes
+Y9q8N_KgH8SI_250.000_260.000.wav	speech
+YUAhzckt0y3U_30.000_40.000.wav	dog
+YUAhzckt0y3U_30.000_40.000.wav	speech
+YASUgGJpwlMs_29.000_39.000.wav	speech
+YItfBY9SrWM8_10.000_20.000.wav	none
+Yx2UwwIt87F8_270.000_280.000.wav	dishes
+Yx2UwwIt87F8_270.000_280.000.wav	frying
+Yx2UwwIt87F8_270.000_280.000.wav	speech
+YZt-2s6YGPOE_440.000_450.000.wav	running water
+YZt-2s6YGPOE_440.000_450.000.wav	speech
+YAjmZCg_sYc8_30.000_40.000.wav	none
+YFeXj1i4ur5Q_30.000_40.000.wav	speech
+YFeXj1i4ur5Q_30.000_40.000.wav	vacuum cleaner
+Y2K0NKi1wigk_340.000_350.000.wav	running water
+Yb2JRI-RVw9U_30.000_40.000.wav	speech
+Yb2JRI-RVw9U_30.000_40.000.wav	vacuum cleaner
+YF2eqfiTxDwg_240.000_250.000.wav	speech
+YF2eqfiTxDwg_240.000_250.000.wav	vacuum cleaner
+YUnwjHckSTDo_30.000_40.000.wav	none
+YXZhLMTOmM9w_30.000_40.000.wav	cat
+Ym-zOMNnVX78_40.000_50.000.wav	speech
+Ym-zOMNnVX78_40.000_50.000.wav	vacuum cleaner
+YJh-ills3nEQ_30.000_40.000.wav	none
+YreGGOP8tYLU_0.000_10.000.wav	dishes
+YreGGOP8tYLU_0.000_10.000.wav	speech
+Y2Ssh4YWMroo_30.000_40.000.wav	cat
+Y2Ssh4YWMroo_30.000_40.000.wav	speech
+Y6SXBknR8MH4_0.000_10.000.wav	cat
+Y6SXBknR8MH4_0.000_10.000.wav	dog
+Y55l9j-CggDQ_30.000_40.000.wav	cat
+Y55l9j-CggDQ_30.000_40.000.wav	speech
+YazOX0YeNl3Q_70.000_80.000.wav	dishes
+YazOX0YeNl3Q_70.000_80.000.wav	frying
+YazOX0YeNl3Q_70.000_80.000.wav	speech
+YG7JFyw4L_7A_70.000_80.000.wav	speech
+YWJV6Ey6hXEw_30.000_40.000.wav	dog
+YAg_YyTCOFqw_30.000_40.000.wav	running water
+YEecU1KGJIt4_20.000_30.000.wav	dog
+YJQwirnKysXI_30.000_40.000.wav	dog
+YJQwirnKysXI_30.000_40.000.wav	speech
+Yk4ExqQTNklk_210.000_220.000.wav	running water
+Yk4ExqQTNklk_210.000_220.000.wav	speech
+YVrZkUqz2WZI_290.000_300.000.wav	running water
+YVrZkUqz2WZI_290.000_300.000.wav	speech
+YHUm2vzjI6DQ_220.000_230.000.wav	vacuum cleaner
+YgyhxCxzvIps_10.000_20.000.wav	cat
+YgyhxCxzvIps_10.000_20.000.wav	dog
+YbUDfTkJCg0o_20.000_30.000.wav	speech
+Y7LQOu6zQjfM_50.000_60.000.wav	dog
+Y7LQOu6zQjfM_50.000_60.000.wav	speech
+YMC_xbXx2xT4_10.000_20.000.wav	electric shaver toothbrush
+YMC_xbXx2xT4_10.000_20.000.wav	speech
+YlQ2_0IqvH8g_60.000_70.000.wav	alarm bell ringing
+YlQ2_0IqvH8g_60.000_70.000.wav	speech
+YWGqz-OVwLGs_40.000_50.000.wav	vacuum cleaner
+YOHT925Zi2bE_110.000_120.000.wav	blender
+YOHT925Zi2bE_110.000_120.000.wav	speech
+YBFEeNJkKx6g_30.000_40.000.wav	dog
+YBFEeNJkKx6g_30.000_40.000.wav	speech
+Y5rSpIXAOjgk_50.000_60.000.wav	dog
+Y5rSpIXAOjgk_50.000_60.000.wav	speech
+YWNc2RfxdSm8_420.000_430.000.wav	dishes
+Y2REf8hLLYMw_30.000_40.000.wav	cat
+Y2REf8hLLYMw_30.000_40.000.wav	speech
+Y84uy3xSw9H0_30.000_40.000.wav	cat
+Y84uy3xSw9H0_30.000_40.000.wav	speech
+YsaCjCc3OaU8_60.000_70.000.wav	running water
+YsaCjCc3OaU8_60.000_70.000.wav	speech
+Yw4-k89IIsLw_160.000_170.000.wav	none
+Y-1pPw9zZopA_190.000_200.000.wav	none
+Yd_k3fsJrW4U_210.000_220.000.wav	electric shaver toothbrush
+Yd_k3fsJrW4U_210.000_220.000.wav	speech
+YI1GC1yWdM_c_30.000_40.000.wav	cat
+Y3gR0QBgrzYQ_20.000_30.000.wav	vacuum cleaner
+YI5yMAPfZsBQ_360.000_370.000.wav	speech
+YI5yMAPfZsBQ_360.000_370.000.wav	vacuum cleaner
+YSyH7GZwBaOw_330.000_340.000.wav	none
+YbnLQeoB3ssU_130.000_140.000.wav	blender
+YbnLQeoB3ssU_130.000_140.000.wav	speech
+Y63xWsWuH-eI_10.000_20.000.wav	vacuum cleaner
+YDPNmUOnE83o_10.000_20.000.wav	none
+YT21ElXBt27A_10.000_20.000.wav	running water
+Y9q3P6N22V9M_40.000_50.000.wav	alarm bell ringing
+Y9q3P6N22V9M_40.000_50.000.wav	speech
+YPwdYrskUF3Q_80.000_90.000.wav	dishes
+YPwdYrskUF3Q_80.000_90.000.wav	frying
+YPwdYrskUF3Q_80.000_90.000.wav	speech
+YfVTjznfUoT8_21.000_31.000.wav	alarm bell ringing
+YfVTjznfUoT8_21.000_31.000.wav	speech
+YJunna4uGy5I_510.000_520.000.wav	blender
+YJunna4uGy5I_510.000_520.000.wav	speech
+YmXhgTalUktk_540.000_550.000.wav	dishes
+YmXhgTalUktk_540.000_550.000.wav	speech
+YOA6RBTfBP-M_0.000_10.000.wav	none
+YsIEknQwEs8k_150.000_160.000.wav	alarm bell ringing
+YsIEknQwEs8k_150.000_160.000.wav	frying
+YsIEknQwEs8k_150.000_160.000.wav	speech
+Y1YRhxCXCM0o_16.000_26.000.wav	none
+YNKfyi7q0JNU_30.000_40.000.wav	speech
+YABxbI3HIQbk_30.000_40.000.wav	frying
+YL28CnhmeAD4_30.000_40.000.wav	dog
+YL28CnhmeAD4_30.000_40.000.wav	speech
+YAJVSqnsBf70_80.000_90.000.wav	frying
+YL3ZtE3rD2nc_50.000_60.000.wav	electric shaver toothbrush
+Y6psjy93yoTA_30.000_40.000.wav	cat
+YU4LITdDmjvg_11.000_21.000.wav	running water
+Y5siTUcPFy74_210.000_220.000.wav	running water
+YuQf7nY1wTdI_180.000_190.000.wav	electric shaver toothbrush
+YuQf7nY1wTdI_180.000_190.000.wav	speech
+YSktlw1AytXw_0.000_3.000.wav	none
+YHjyl1n_1muU_6.000_16.000.wav	none
+YE1jbUtZSluo_240.000_250.000.wav	dishes
+YE1jbUtZSluo_240.000_250.000.wav	speech
+YN4gbP2QU2fk_220.000_230.000.wav	frying
+YN4gbP2QU2fk_220.000_230.000.wav	speech
+YVVzipNitrmk_0.000_10.000.wav	dog
+YDpLi9YH5idY_30.000_40.000.wav	dog
+YDpLi9YH5idY_30.000_40.000.wav	speech
+YQtpn66PvyUA_3.000_13.000.wav	alarm bell ringing
+YhYBE6m0peaM_340.000_350.000.wav	blender
+YABUQP_h7RTI_340.000_350.000.wav	none
+YmlpF226Gvlo_0.000_10.000.wav	cat
+Y-DSNfC2EJhU_20.000_30.000.wav	running water
+YOAEeDczKnCA_200.000_210.000.wav	vacuum cleaner
+YJ_AaZl54Bro_10.000_20.000.wav	speech
+YJ_AaZl54Bro_10.000_20.000.wav	vacuum cleaner
+YBHGB73ilrCc_30.000_40.000.wav	dog
+YBHGB73ilrCc_30.000_40.000.wav	speech
+YcaI1iADQPVA_130.000_140.000.wav	running water
+YcaI1iADQPVA_130.000_140.000.wav	speech
+YHpA4ldGoHRQ_24.000_34.000.wav	running water
+YHpA4ldGoHRQ_24.000_34.000.wav	speech
+Yy4E6tNhxeFo_12.000_22.000.wav	alarm bell ringing
+Yy4E6tNhxeFo_12.000_22.000.wav	speech
+YNjIBZKo4jUc_70.000_80.000.wav	alarm bell ringing
+YNjIBZKo4jUc_70.000_80.000.wav	speech
+Y5UUgV7-Bg3c_30.000_40.000.wav	dog
+Y5UUgV7-Bg3c_30.000_40.000.wav	speech
+YH3BWUt31xhM_20.000_30.000.wav	electric shaver toothbrush
+Y8ws1ligErwo_0.000_10.000.wav	cat
+Y8ws1ligErwo_0.000_10.000.wav	speech
+YfZ02KtM1tQQ_30.000_40.000.wav	alarm bell ringing
+Y-UFvq4-iS-Y_580.000_590.000.wav	speech
+YMF88IYF2MHY_0.000_10.000.wav	cat
+YkEakYl5pDEM_210.000_220.000.wav	speech
+YFon1IZ0fRSI_30.000_40.000.wav	dog
+Y2wBXDZaCJ3Q_390.000_400.000.wav	running water
+Y2wBXDZaCJ3Q_390.000_400.000.wav	speech
+YWKrfEFf6C2I_110.000_120.000.wav	none
+YeeiDM1H_Y-w_20.000_30.000.wav	running water
+YIsKPMBn6irE_12.000_22.000.wav	dog
+YFatuEXsaQ20_30.000_40.000.wav	vacuum cleaner
+YLcDOdDo-Nwg_30.000_40.000.wav	alarm bell ringing
+Y2nQzeKH07LQ_40.000_50.000.wav	cat
+Y4lqUgzaykg8_160.000_170.000.wav	dishes
+Y4lqUgzaykg8_160.000_170.000.wav	speech
+Y7FlTfWm2fVY_41.000_51.000.wav	speech
+YUfMr4FFsS28_21.000_31.000.wav	dog
+YUfMr4FFsS28_21.000_31.000.wav	speech
+Y8ewn7JCJbEM_30.000_40.000.wav	cat
+Y8ewn7JCJbEM_30.000_40.000.wav	speech
+Y4isFtP23Sh0_30.000_40.000.wav	dog
+YYYgdY9YrVBs_340.000_350.000.wav	running water
+YA_RIRJV5AxE_30.000_40.000.wav	speech
+YO5vWaj07zN4_30.000_40.000.wav	vacuum cleaner
+Y-zgGL2o1jqw_80.000_90.000.wav	running water
+YOCIQYk1eMHU_120.000_130.000.wav	vacuum cleaner
+YSonqbrzgxQs_6.000_16.000.wav	none
+Y17WW_p1N7BQ_30.000_40.000.wav	cat
+Y17WW_p1N7BQ_30.000_40.000.wav	speech
+YQieNoTUa8X8_90.000_100.000.wav	speech
+Y36E3XXqab40_40.000_50.000.wav	running water
+Y36E3XXqab40_40.000_50.000.wav	speech
+Y__p-iA312kg_70.000_80.000.wav	none
+Y64FYj_KHcC4_50.000_60.000.wav	none
+YyU50qUMbobE_180.000_190.000.wav	blender
+Y_WQV7YjYrX0_470.000_480.000.wav	electric shaver toothbrush
+Y_WQV7YjYrX0_470.000_480.000.wav	speech
+Y9ppa4lXXspA_30.000_40.000.wav	dog
+Y53-OcC7i-W4_25.000_35.000.wav	none
+Yx-t8155hXt4_80.000_90.000.wav	dog
+Yx-t8155hXt4_80.000_90.000.wav	speech
+Ye4ZVQ74R5s4_30.000_40.000.wav	frying
+Ye4ZVQ74R5s4_30.000_40.000.wav	speech
+YHSPBrLMYWQA_30.000_40.000.wav	cat
+Y63Qy15I3QGE_30.000_40.000.wav	cat
+YvsDTdpTIIMM_70.000_80.000.wav	running water
+YvsDTdpTIIMM_70.000_80.000.wav	speech
+Y39IZIbmQPzA_40.000_50.000.wav	cat
+Y39IZIbmQPzA_40.000_50.000.wav	speech
+YakanYTDu2NQ_440.000_450.000.wav	dishes
+YXO1wG3ne_Cw_30.000_40.000.wav	dog
+YXO1wG3ne_Cw_30.000_40.000.wav	speech
+Y5b6lStP8UXE_380.000_390.000.wav	dog
+Y1_Q80fDGLRM_10.000_20.000.wav	dog
+Y1_Q80fDGLRM_10.000_20.000.wav	speech
+YSSJlSadbMoE_30.000_40.000.wav	alarm bell ringing
+YH5iBnsKsKMM_0.000_10.000.wav	speech
+YH5iBnsKsKMM_0.000_10.000.wav	vacuum cleaner
+YN_bWjtccFg0_20.000_30.000.wav	dog
+YLYHc-tF4upI_70.000_80.000.wav	electric shaver toothbrush
+YLYHc-tF4upI_70.000_80.000.wav	speech
+YHyq_Kc64Fgw_10.000_20.000.wav	speech
+YBJimHxqGfig_50.000_60.000.wav	none
+YMYxhRD4RVmQ_10.000_20.000.wav	speech
+YMYxhRD4RVmQ_10.000_20.000.wav	vacuum cleaner
+YOni8cJ3oNic_0.000_10.000.wav	alarm bell ringing
+Y86p6UVFIcFI_30.000_40.000.wav	cat
+Y_eLVrgvrVBQ_20.000_30.000.wav	vacuum cleaner
+Y-9byM5-ih2M_0.000_10.000.wav	dog
+Y-9byM5-ih2M_0.000_10.000.wav	speech
+Y-0yRK50zyTI_30.000_40.000.wav	speech
+Y45vy1dbFAdU_90.000_100.000.wav	blender
+Y45vy1dbFAdU_90.000_100.000.wav	speech
+YAGqCcrX619E_60.000_70.000.wav	speech
+YuPYNx8lT1gY_40.000_50.000.wav	dishes
+YuPYNx8lT1gY_40.000_50.000.wav	speech
+YOjx9kmtLxU4_40.000_50.000.wav	none
+Y-1LQP2wemiQ_30.000_40.000.wav	alarm bell ringing
+Y-adm_P3xa0s_10.000_20.000.wav	speech
+YUjlwtQeFdWY_540.000_550.000.wav	alarm bell ringing
+YBDCa5Q1hGug_0.000_10.000.wav	alarm bell ringing
+YBDCa5Q1hGug_0.000_10.000.wav	speech
+YDV9DC4wwhfo_50.000_60.000.wav	dishes
+YDV9DC4wwhfo_50.000_60.000.wav	speech
+Y2eYaXTKSpMI_4.000_14.000.wav	cat
+Y2eYaXTKSpMI_4.000_14.000.wav	dog
+Y2eYaXTKSpMI_4.000_14.000.wav	speech
+YpaklihxDg6M_340.000_350.000.wav	electric shaver toothbrush
+YpaklihxDg6M_340.000_350.000.wav	speech
+Y4ynKNPBxypA_18.000_28.000.wav	dog
+Yt-CiLzdNecs_1.000_11.000.wav	alarm bell ringing
+Yt-CiLzdNecs_1.000_11.000.wav	speech
+YpAG3mZgGxfk_230.000_240.000.wav	blender
+Y0N17tEW_WEU_30.000_40.000.wav	alarm bell ringing
+Y0N17tEW_WEU_30.000_40.000.wav	speech
+Yv8Kry1CbTkM_310.000_320.000.wav	speech
+Y-2RPPODqLy4_30.000_40.000.wav	speech
+YjGlA7jMqfl0_20.000_30.000.wav	running water
+Yw4_26WHfzko_30.000_40.000.wav	running water
+Y6GjsjhAbXRo_20.000_30.000.wav	dog
+YCIDw75mUl6c_30.000_40.000.wav	dog
+YRayuVcywno0_30.000_40.000.wav	speech
+Y0D9ZiiYArKw_30.000_40.000.wav	speech
+Y9cAeyIVi67U_20.000_30.000.wav	dog
+Y9cAeyIVi67U_20.000_30.000.wav	speech
+Y0EI7FxbdsUE_410.000_420.000.wav	blender
+Y0EI7FxbdsUE_410.000_420.000.wav	electric shaver toothbrush
+Y0EI7FxbdsUE_410.000_420.000.wav	frying
+Y0EI7FxbdsUE_410.000_420.000.wav	running water
+Y0EI7FxbdsUE_410.000_420.000.wav	speech
+YKn-WVGzPVZg_20.000_30.000.wav	cat
+YKn-WVGzPVZg_20.000_30.000.wav	speech
+YeyanSta5aPI_30.000_40.000.wav	alarm bell ringing
+YeyanSta5aPI_30.000_40.000.wav	speech
+YQ0pSP7dO0M8_150.000_160.000.wav	frying
+YG6sxdejGOqw_100.000_110.000.wav	dishes
+YG6sxdejGOqw_100.000_110.000.wav	speech
+YLnhLeWWaxxc_450.000_460.000.wav	alarm bell ringing
+YLnhLeWWaxxc_450.000_460.000.wav	speech
+Y-wQ8El8J_dE_30.000_40.000.wav	speech
+Y3JJ700tVT_0_2.000_12.000.wav	running water
+Y-geVmY-Zo3E_30.000_40.000.wav	none
+Y-IKnJa9U66I_150.000_160.000.wav	blender
+Y-IKnJa9U66I_150.000_160.000.wav	speech
+YlBzEk72sMr0_370.000_380.000.wav	dishes
+YlBzEk72sMr0_370.000_380.000.wav	speech
+YRfTFFgqX58A_100.000_110.000.wav	running water
+YRfTFFgqX58A_100.000_110.000.wav	speech
+YJKv08vkBmpc_8.000_18.000.wav	speech
+Y7-htobm4qu0_30.000_40.000.wav	none
+Y8UQI59N-bAs_10.000_20.000.wav	alarm bell ringing
+Y8kOQiGtnrOw_180.000_190.000.wav	vacuum cleaner
+Y4WD_zYTAudo_100.000_110.000.wav	alarm bell ringing
+Y4WD_zYTAudo_100.000_110.000.wav	speech
+YH8akZoFrPvo_30.000_40.000.wav	none
+YgTXz4thnsYQ_100.000_110.000.wav	vacuum cleaner
+Y4qaJW0mvsoY_30.000_40.000.wav	none
+YxduQyXSEDAc_60.000_70.000.wav	running water
+Y2IEoe3YvCJo_20.000_30.000.wav	dog
+Y2IEoe3YvCJo_20.000_30.000.wav	speech
+Y6kUtpAr79xU_60.000_70.000.wav	dog
+Y5Y-1he25j9E_10.000_20.000.wav	dog
+YT37iu1iSh1s_410.000_420.000.wav	running water
+YT37iu1iSh1s_410.000_420.000.wav	speech
+YpVgoBDzwHig_3.000_13.000.wav	alarm bell ringing
+YPS5KAEgrtMA_30.000_40.000.wav	none
+Y5tM4bPM6E_w_70.000_80.000.wav	cat
+Y5tM4bPM6E_w_70.000_80.000.wav	speech
+YdVTcTLLD9bo_30.000_40.000.wav	dishes
+YCSCvisy9SmA_500.000_510.000.wav	speech
+YCSCvisy9SmA_500.000_510.000.wav	vacuum cleaner
+YtYChCV0-rCA_110.000_120.000.wav	blender
+YtYChCV0-rCA_110.000_120.000.wav	dishes
+YtYChCV0-rCA_110.000_120.000.wav	speech
+Y6FUmapkqPn0_80.000_90.000.wav	cat
+Y6FUmapkqPn0_80.000_90.000.wav	speech
+YRA8ck5zeHM0_0.000_10.000.wav	running water
+YRA8ck5zeHM0_0.000_10.000.wav	speech
+Y9BGPUKwmSEY_240.000_250.000.wav	frying
+Y9BGPUKwmSEY_240.000_250.000.wav	speech
+YOmVI8nT4KvA_150.000_160.000.wav	electric shaver toothbrush
+YMdpwk2w-GSM_90.000_100.000.wav	blender
+Yf1t07gkcfR8_110.000_120.000.wav	cat
+Yf1t07gkcfR8_110.000_120.000.wav	running water
+Y0EyIdGgbPEo_30.000_40.000.wav	speech
+YKk6C7Mm6qWM_20.000_30.000.wav	alarm bell ringing
+Y-kWlE2dkoxc_170.000_180.000.wav	vacuum cleaner
+YF-i7xaERdUA_113.000_123.000.wav	alarm bell ringing
+YpID6qxDsK8k_320.000_330.000.wav	frying
+YpID6qxDsK8k_320.000_330.000.wav	speech
+Y-z4OZ7ls5Bo_540.000_550.000.wav	alarm bell ringing
+Y-z4OZ7ls5Bo_540.000_550.000.wav	speech
+Y9cYVBOJmXIw_30.000_40.000.wav	running water
+Y9cYVBOJmXIw_30.000_40.000.wav	speech
+Y03zeVlBWhdY_30.000_40.000.wav	blender
+YAyA6zrWfkYY_310.000_320.000.wav	electric shaver toothbrush
+YAyA6zrWfkYY_310.000_320.000.wav	speech
+Y7X4MOknsB80_0.000_10.000.wav	vacuum cleaner
+YkDwLN8_XS4Y_30.000_40.000.wav	running water
+YdN7ZWYBJeUE_40.000_50.000.wav	vacuum cleaner
+YF-mbfDB9bN4_20.000_30.000.wav	running water
+YF-mbfDB9bN4_20.000_30.000.wav	speech
+Y-qpgeVTesdE_470.000_480.000.wav	speech
+YtEFlN-xm9Rs_400.000_410.000.wav	running water
+YtEFlN-xm9Rs_400.000_410.000.wav	speech
+Y-gAzofSmRiY_21.000_31.000.wav	cat
+Y-gAzofSmRiY_21.000_31.000.wav	speech
+YiNpXCzaWW1s_1.000_11.000.wav	alarm bell ringing
+YiNpXCzaWW1s_1.000_11.000.wav	speech
+YfhAAzi6MSXw_70.000_80.000.wav	cat
+YO1sS0ahb4MA_160.000_170.000.wav	alarm bell ringing
+YO1sS0ahb4MA_160.000_170.000.wav	speech
+Y3LtXT2KVI-c_30.000_40.000.wav	cat
+YL4Z7XkS6CtA_30.000_40.000.wav	dog
+YL4Z7XkS6CtA_30.000_40.000.wav	speech
+Y0Wkk9iNzA9c_30.000_40.000.wav	dog
+Y0Wkk9iNzA9c_30.000_40.000.wav	speech
+Yf2lVkHEwEgs_150.000_160.000.wav	speech
+YPiVcdJd0uAo_25.000_35.000.wav	speech
+Y0MEPG8c0jqk_490.000_500.000.wav	speech
+Y2ZZEtUCIkUw_30.000_40.000.wav	dog
+Y2ZZEtUCIkUw_30.000_40.000.wav	speech
+Y-OeV4dPAQiw_30.000_40.000.wav	speech
+YOnJaLTDVxjQ_240.000_250.000.wav	running water
+YOnJaLTDVxjQ_240.000_250.000.wav	speech
+Y02-0m4RbDUI_30.000_40.000.wav	none
+Y-_HXiz8XnV0_580.000_590.000.wav	none
+YFu2PVtbwfhc_470.000_480.000.wav	dishes
+YFu2PVtbwfhc_470.000_480.000.wav	frying
+YFu2PVtbwfhc_470.000_480.000.wav	speech
+YflwHYHyToU0_180.000_190.000.wav	alarm bell ringing
+YflwHYHyToU0_180.000_190.000.wav	speech
+Y6GXGC1K7b5k_0.000_10.000.wav	none
+YX-eWpQTv0Yc_210.000_220.000.wav	dishes
+YX-eWpQTv0Yc_210.000_220.000.wav	speech
+YA7pW5W-4snM_150.000_160.000.wav	vacuum cleaner
+YEy7CIPAeqsY_30.000_40.000.wav	dog
+YEy7CIPAeqsY_30.000_40.000.wav	speech
+YwHoSjefsmsE_340.000_350.000.wav	electric shaver toothbrush
+YwHoSjefsmsE_340.000_350.000.wav	speech
+Yk4k-ULQJzAI_30.000_40.000.wav	running water
+Yk4k-ULQJzAI_30.000_40.000.wav	speech
+YYmW1NLRYTRA_270.000_280.000.wav	dishes
+YYmW1NLRYTRA_270.000_280.000.wav	speech
+YYmW1NLRYTRA_270.000_280.000.wav	vacuum cleaner
+YGr-aT8sYNN8_30.000_40.000.wav	vacuum cleaner
+YKS2aTlLJPo8_90.000_100.000.wav	dog
+Y_iL8G7GTNo0_580.000_590.000.wav	running water
+Y_iL8G7GTNo0_580.000_590.000.wav	speech
+YJlc4DETobHE_50.000_60.000.wav	running water
+YJlc4DETobHE_50.000_60.000.wav	speech
+Y-pDS3yN4B1s_50.000_60.000.wav	speech
+Y-k-hxP5eWko_30.000_40.000.wav	running water
+Y-k-hxP5eWko_30.000_40.000.wav	speech
+YACSkISqebAA_200.000_210.000.wav	running water
+YAKjcrEsYykE_340.000_350.000.wav	none
+Y0AkRWunFZPk_190.000_200.000.wav	speech
+Y097K1uMIPyQ_30.000_40.000.wav	none
+Y4GxRRVp3hD4_18.000_28.000.wav	speech
+Y7LsJrF1AwZg_30.000_40.000.wav	cat
+Y7LsJrF1AwZg_30.000_40.000.wav	running water
+YEbI0_rtgvXw_80.000_90.000.wav	alarm bell ringing
+YEbI0_rtgvXw_80.000_90.000.wav	speech
+YrgRQth5jSPU_70.000_80.000.wav	speech
+YC-XuGN8nmBM_30.000_40.000.wav	alarm bell ringing
+Y1iYDrXdxkpg_170.000_180.000.wav	dishes
+Y1iYDrXdxkpg_170.000_180.000.wav	speech
+YDXdU9PpDo44_280.000_290.000.wav	running water
+YDXdU9PpDo44_280.000_290.000.wav	speech
+Y-0nqfRcnAYE_370.000_380.000.wav	dishes
+Y-0nqfRcnAYE_370.000_380.000.wav	speech
+Yt1gy3Du69vw_320.000_330.000.wav	dishes
+Yt1gy3Du69vw_320.000_330.000.wav	frying
+Yt1gy3Du69vw_320.000_330.000.wav	speech
+Y-Wd5YV97ftU_320.000_330.000.wav	none
+Y-jaY3LS3Dv0_30.000_40.000.wav	speech
+YdbunjNOhz2w_210.000_220.000.wav	dishes
+YcibHJCU4WW4_90.000_100.000.wav	speech
+YcibHJCU4WW4_90.000_100.000.wav	vacuum cleaner
+YT_FZMsRHzLc_30.000_40.000.wav	none
+Y-a0drwQsrso_310.000_320.000.wav	blender
+Y-a0drwQsrso_310.000_320.000.wav	speech
+YUWizNEHrzCY_17.000_27.000.wav	dog
+YDpSMRYBjwdk_18.000_28.000.wav	alarm bell ringing
+Y0MV5mb0RJLY_120.000_130.000.wav	speech
+Y-Cdx8zogHI0_260.000_270.000.wav	dishes
+Y7AhpZQt1Ml0_120.000_130.000.wav	dog
+Y7AhpZQt1Ml0_120.000_130.000.wav	speech
+YzE6BVRSQNZU_50.000_60.000.wav	cat
+YWi6ef91IiUg_490.000_500.000.wav	alarm bell ringing
+YWi6ef91IiUg_490.000_500.000.wav	speech
+Y_Uf47SnKl5Q_30.000_40.000.wav	alarm bell ringing
+Y2tXE7snh6Ak_30.000_40.000.wav	none
+YI_YpojoZeAI_350.000_360.000.wav	blender
+YZtCwrMvS6Eg_20.000_30.000.wav	speech
+YHhP9eZ8cNIY_0.000_10.000.wav	alarm bell ringing
+YHhP9eZ8cNIY_0.000_10.000.wav	speech
+YdweVBqei9LA_160.000_170.000.wav	blender
+YdweVBqei9LA_160.000_170.000.wav	speech
+Y-hss7xpzIVc_30.000_40.000.wav	none
+YNcdv7wCGgYE_30.000_40.000.wav	vacuum cleaner
+YI0qvH0g393w_20.000_30.000.wav	alarm bell ringing
+YtBoyXW9_TwU_0.000_10.000.wav	alarm bell ringing
+YtBoyXW9_TwU_0.000_10.000.wav	speech
+YaRCiAM4UAyE_140.000_150.000.wav	blender
+YaRCiAM4UAyE_140.000_150.000.wav	speech
+Y9TzyRdTYDvo_24.000_34.000.wav	dog
+Y-mpapCZXors_330.000_340.000.wav	speech
+YZyJMdv7sXnU_550.000_560.000.wav	blender
+YZyJMdv7sXnU_550.000_560.000.wav	speech
+Y39rXWSXGOyo_80.000_90.000.wav	cat
+Y_ZZpAj4rIRk_80.000_90.000.wav	dishes
+Y_ZZpAj4rIRk_80.000_90.000.wav	speech
+YOEmncpMnPak_30.000_40.000.wav	alarm bell ringing
+YOEmncpMnPak_30.000_40.000.wav	speech
+YUbyMM3iddJA_0.000_10.000.wav	alarm bell ringing
+YUbyMM3iddJA_0.000_10.000.wav	blender
+YUbyMM3iddJA_0.000_10.000.wav	speech
+Y6U_1_DAL7mY_3.000_13.000.wav	cat
+Y6U_1_DAL7mY_3.000_13.000.wav	dog
+Y-oGJwGEsIiA_90.000_100.000.wav	running water
+Y8KCzQ2KaSyE_520.000_530.000.wav	blender
+Y9LeGCCvrsbs_30.000_40.000.wav	dishes
+Y9LeGCCvrsbs_30.000_40.000.wav	dog
+Y-XZBpMKRhok_10.000_20.000.wav	electric shaver toothbrush
+Y-XZBpMKRhok_10.000_20.000.wav	speech
+Y-XZBpMKRhok_10.000_20.000.wav	vacuum cleaner
+YZLX7NZF2-KE_340.000_350.000.wav	speech
+YzTyDJurqO-Q_200.000_210.000.wav	running water
+YzTyDJurqO-Q_200.000_210.000.wav	speech
+YxqaMpirSNfI_0.000_10.000.wav	cat
+Y446etGsnI_E_30.000_40.000.wav	cat
+Y3lsNtH_m7kw_70.000_80.000.wav	none
+Y-mN6UH1Gd40_30.000_40.000.wav	dishes
+Y-mN6UH1Gd40_30.000_40.000.wav	speech
+Y0OFlTh2_Obo_30.000_40.000.wav	dog
+Y0OFlTh2_Obo_30.000_40.000.wav	running water
+Y0OFlTh2_Obo_30.000_40.000.wav	speech
+YNuvgBjmUW1g_140.000_150.000.wav	dog
+YNuvgBjmUW1g_140.000_150.000.wav	speech
+Y46t-4NFQ9_w_2.000_12.000.wav	cat
+Y46t-4NFQ9_w_2.000_12.000.wav	speech
+YiCuoP_GjP5U_450.000_460.000.wav	electric shaver toothbrush
+YMNwv1tGeR_I_30.000_40.000.wav	speech
+Y2I0ns0crmrA_6.000_16.000.wav	dog
+Y6f1OGWQG9wc_10.000_20.000.wav	alarm bell ringing
+YDjcbzPb1_Tk_30.000_40.000.wav	cat
+YH7B8mdI38Eg_240.000_250.000.wav	dishes
+YGrnk9p9P7Qk_17.000_27.000.wav	running water
+YGrnk9p9P7Qk_17.000_27.000.wav	speech
+Y8AY0aXAQjwY_250.000_260.000.wav	none
+YMA2MTloAjr8_10.000_20.000.wav	alarm bell ringing
+YMA2MTloAjr8_10.000_20.000.wav	speech
+YTpX4tu7GrUw_90.000_100.000.wav	running water
+Y6s7Tv_wqWNE_150.000_160.000.wav	blender
+Y6s7Tv_wqWNE_150.000_160.000.wav	speech
+YTf_mav3pAoc_30.000_40.000.wav	dishes
+YTf_mav3pAoc_30.000_40.000.wav	speech
+Y-sPPlSb2CCo_30.000_40.000.wav	speech
+Yts8miLXKrIw_30.000_40.000.wav	vacuum cleaner
+YOGvcA1UgYHY_260.000_270.000.wav	dishes
+YOGvcA1UgYHY_260.000_270.000.wav	frying
+YOGvcA1UgYHY_260.000_270.000.wav	speech
+YnmuGX7pwjTE_250.000_260.000.wav	dishes
+YnmuGX7pwjTE_250.000_260.000.wav	speech
+Y--4gqARaEJE_0.000_10.000.wav	none
+Yq1gZT6aiY_o_30.000_40.000.wav	none
+YUQ_ikxReo4Y_20.000_30.000.wav	frying
+YUQ_ikxReo4Y_20.000_30.000.wav	running water
+YUQ_ikxReo4Y_20.000_30.000.wav	speech
+YN_NCQdSQ0eA_220.000_230.000.wav	running water
+YN_NCQdSQ0eA_220.000_230.000.wav	speech
+YQsWJOPduGT8_140.000_150.000.wav	speech
+YrW9BQJBvEZQ_430.000_440.000.wav	alarm bell ringing
+YrW9BQJBvEZQ_430.000_440.000.wav	speech
+Y7qAvg5uQN9I_200.000_210.000.wav	blender
+Y5d4CaV5W8JU_290.000_300.000.wav	dishes
+Y5d4CaV5W8JU_290.000_300.000.wav	frying
+Y5d4CaV5W8JU_290.000_300.000.wav	speech
+Y7CRVoUCXg_A_30.000_40.000.wav	speech
+Y-YRJHtktT1g_170.000_180.000.wav	running water
+Y-YRJHtktT1g_170.000_180.000.wav	speech
+YRi-tkp3IIic_10.000_20.000.wav	dishes
+Y-uGHAvfqs2I_30.000_40.000.wav	cat
+Y-uGHAvfqs2I_30.000_40.000.wav	speech
+Y-M7ZNV6gLo0_310.000_320.000.wav	speech
+Y-1nilez17Dg_30.000_40.000.wav	speech
+Y-LgxtcD700E_30.000_40.000.wav	none
+Y27jlpi7rq28_280.000_290.000.wav	frying
+Y27jlpi7rq28_280.000_290.000.wav	speech
+Y91LB9ssE__k_110.000_120.000.wav	alarm bell ringing
+YSVyopQxDdHc_560.000_570.000.wav	running water
+YSVyopQxDdHc_560.000_570.000.wav	speech
+Y08pYl8L1y-g_50.000_60.000.wav	speech
+YFLFlLKV_oek_130.000_140.000.wav	running water
+Yh76OxJ8x-6w_30.000_40.000.wav	speech
+YmOPDIKfulgg_360.000_370.000.wav	dishes
+YmOPDIKfulgg_360.000_370.000.wav	frying
+Y2tBRn4xKmzM_30.000_40.000.wav	speech
+YUGVQvxU4bS8_0.000_10.000.wav	running water
+YUGVQvxU4bS8_0.000_10.000.wav	speech
+Y-q56v8eoD2I_30.000_40.000.wav	speech
+YsnOVG0lAgkQ_470.000_480.000.wav	running water
+YsWxcqTcEWPo_330.000_340.000.wav	alarm bell ringing
+YsWxcqTcEWPo_330.000_340.000.wav	speech
+YjEGElZwMzYM_0.000_10.000.wav	running water
+Y0-N62G9etNE_30.000_40.000.wav	blender
+Y0-N62G9etNE_30.000_40.000.wav	speech
+YTslB1VMKXmM_10.000_20.000.wav	none
+Y-gz_moHFwl4_16.000_26.000.wav	speech
+YCWSausmeEr8_160.000_170.000.wav	running water
+Y18HRNQyo9mg_25.000_35.000.wav	cat
+Y18HRNQyo9mg_25.000_35.000.wav	dog
+Y18HRNQyo9mg_25.000_35.000.wav	speech
+YAsTZm7QtY84_30.000_40.000.wav	blender
+Y5bHKmOv3XzE_30.000_40.000.wav	dog
+YukYd1nfdJlM_60.000_70.000.wav	running water
+YukYd1nfdJlM_60.000_70.000.wav	speech
+Y5b_wMMwPlbY_110.000_120.000.wav	dishes
+Y5b_wMMwPlbY_110.000_120.000.wav	speech
+Y3LvZUtupOCs_30.000_40.000.wav	dog
+Y3LvZUtupOCs_30.000_40.000.wav	speech
+Yu38xZsCTCOY_30.000_40.000.wav	cat
+Y68PoupXLTzw_60.000_70.000.wav	cat
+Y0LTmV_dOmmo_30.000_40.000.wav	speech
+Y8vasA2D2_Kc_30.000_40.000.wav	dog
+Y8vasA2D2_Kc_30.000_40.000.wav	speech
+YYxYnXDP_Oyc_280.000_290.000.wav	frying
+YYxYnXDP_Oyc_280.000_290.000.wav	speech
+YAr5r0pzgaRU_30.000_40.000.wav	cat
+YJQ_4fYOd-R0_30.000_40.000.wav	running water
+Yt8V4ko2DCfc_22.000_32.000.wav	electric shaver toothbrush
+Yt8V4ko2DCfc_22.000_32.000.wav	speech
+YWQ3nvU44-3E_380.000_390.000.wav	alarm bell ringing
+YWQ3nvU44-3E_380.000_390.000.wav	speech
+Y5XYhqCIk15Y_3.000_13.000.wav	alarm bell ringing
+YUteKBWdkIIQ_330.000_340.000.wav	dishes
+YUteKBWdkIIQ_330.000_340.000.wav	speech
+Y86e-ONda0GU_170.000_180.000.wav	dog
+Y86e-ONda0GU_170.000_180.000.wav	speech
+Y1SLrRllxMkU_60.000_70.000.wav	alarm bell ringing
+YBLlnu2Tyqu0_30.000_40.000.wav	cat
+YBLlnu2Tyqu0_30.000_40.000.wav	speech
+Yv-J-jzNonoY_40.000_50.000.wav	cat
+Y24Y8aIUFepo_30.000_40.000.wav	alarm bell ringing
+Y24Y8aIUFepo_30.000_40.000.wav	speech
+YNGgpSWcaV1U_63.000_73.000.wav	speech
+Y6iquQAQvoUs_285.000_295.000.wav	alarm bell ringing
+Y6iquQAQvoUs_285.000_295.000.wav	speech
+YwHk1-j5r1JU_385.000_395.000.wav	dishes
+YzCdOEvduBTo_30.000_40.000.wav	cat
+YSRYarmLDPwc_204.000_214.000.wav	dishes
+YSRYarmLDPwc_204.000_214.000.wav	dog
+YSRYarmLDPwc_204.000_214.000.wav	speech
+Yc1_V2y_9KCM_369.000_379.000.wav	running water
+Yc1_V2y_9KCM_369.000_379.000.wav	speech
+YSgTCzMs_1rA_125.000_135.000.wav	dishes
+YSgTCzMs_1rA_125.000_135.000.wav	speech
+YTx_47yEnfCs_442.000_452.000.wav	speech
+YTyGA005YFXg_143.000_153.000.wav	dog
+YTyGA005YFXg_143.000_153.000.wav	speech
+Y23R6_ppquxs_247.000_257.000.wav	dishes
+Y23R6_ppquxs_247.000_257.000.wav	speech
+YQ7q8xQijBCg_32.000_42.000.wav	dishes
+YQ7q8xQijBCg_32.000_42.000.wav	speech
+YFxf5r3DNKXU_142.000_152.000.wav	frying
+YFxf5r3DNKXU_142.000_152.000.wav	speech
+Y8oTQbC9oDkY_27.000_37.000.wav	dog
+Y8oTQbC9oDkY_27.000_37.000.wav	speech
+YAZBIHwmppHo_51.000_61.000.wav	speech
+Y9nNBz3phufo_40.000_50.000.wav	dishes
+YT9v5TB7J6Ak_268.000_278.000.wav	blender
+YT9v5TB7J6Ak_268.000_278.000.wav	dishes
+YT9v5TB7J6Ak_268.000_278.000.wav	speech
+YmBj0IJhv2hM_142.000_152.000.wav	dishes
+YmBj0IJhv2hM_142.000_152.000.wav	speech
+Y2KbRYZ3Cp_c_149.000_159.000.wav	frying
+YZfDu5aHVrAg_205.000_215.000.wav	speech
+YfS9TYqfz_Po_181.000_191.000.wav	dishes
+YfS9TYqfz_Po_181.000_191.000.wav	speech
+YWBJVzaSvSsg_150.000_160.000.wav	speech
+Yn0sxrohD_TI_7.000_14.000.wav	none
+Yt8E89lrV36A_285.000_295.000.wav	speech
+YK1XOQR_O0aA_199.000_209.000.wav	dishes
+YK1XOQR_O0aA_199.000_209.000.wav	speech
+Y5iARe0XPQdg_95.000_105.000.wav	dishes
+Y5iARe0XPQdg_95.000_105.000.wav	running water
+Y5iARe0XPQdg_95.000_105.000.wav	speech
+YmAg1_aL-fCY_30.000_40.000.wav	speech
+YxgQjEiwZsAk_146.000_156.000.wav	dishes
+YxgQjEiwZsAk_146.000_156.000.wav	frying
+YxgQjEiwZsAk_146.000_156.000.wav	speech
+Y7G4IXsu0KtU_72.000_82.000.wav	speech
+YSpVEDyy9AIY_69.000_79.000.wav	blender
+YSpVEDyy9AIY_69.000_79.000.wav	speech
+YOvK__OSdpJQ_74.000_84.000.wav	dishes
+YOvK__OSdpJQ_74.000_84.000.wav	speech
+Yb8GxUkjLSUY_628.000_638.000.wav	speech
